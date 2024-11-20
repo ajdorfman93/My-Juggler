@@ -161,7 +161,7 @@ td {border-right:1px solid #fff;}
 /* Flexbox Pentagon Layout for "revolve" Section */
 .pentagon-container{
     transform: rotate(15deg); /* Offset to center the first item */
-  }
+  <em></em>}
 
 .pentagon-container .icon2 .image-container {
   position: absolute;
