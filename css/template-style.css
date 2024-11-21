@@ -160,22 +160,26 @@ th {border-right:1px solid #fff;}
 td {border-right:1px solid #fff;}
 /* Flexbox Pentagon Layout for "revolve" Section */
 .pentagon-container{
-    transform: rotate(15deg); /* Offset to center the first item */
-  <em></em>}
-
+    transform: rotate(18deg); /* Offset to center the first item */
+}
 .pentagon-container .icon2 .image-container {
   position: absolute;
   width: 50px;
-  transition: 1s;
+	transition-delay: 2s;
+	transition: 2s;
+	transition-timing-function: ease-in-out;
   transform-origin: 150%;
   translate: -100%;
   z-index: 100;
+	height: 100%
 }
 @media screen and (min-width:480px) {
   .pentagon-container .icon2 .image-container {
     position: absolute;
     width: 70px;
-    transition: 1s;
+	transition-delay: 2s;
+	transition: 2s;
+	transition-timing-function: ease-in-out;
     transform-origin: 150%;
     translate: -100%;
     z-index: 100;
@@ -185,7 +189,9 @@ td {border-right:1px solid #fff;}
   .pentagon-container .icon2 .image-container {
     position: absolute;
     width: 50px;
-    transition: 1s;
+	transition-delay: 2s;
+	transition: 2s;
+	transition-timing-function: ease-in-out;
     transform-origin: 150%;
     translate: -100%;
     z-index: 100;
@@ -193,25 +199,86 @@ td {border-right:1px solid #fff;}
 }
 
 @media screen and (min-width:1140px) {
-  .pentagon-container .icon2 .image-container {
+	  .pentagon-container .icon2 .image-container {
     position: absolute;
-    width: 70px;
-    transition: 1s;
-    transform-origin: 150%;
-    translate: -100%;
+    width: 75px;
+	transition-delay: 2s;
+	transition: 2s;
+	transition-timing-function: ease-in-out;
+    transform-origin: 130%;
+    translate: -80%;
     z-index: 100;
+  }
+  .pentagon-container .icon2 {
+    position: relative;
+	transition-delay: 2s;
+	transition: 2s;
+	transition-timing-function: ease-in-out;
+    z-index: 100;
+	height: 100%
   }
 }
 
 @media screen and (min-width:1366px) {
-  .pentagon-container .icon2 .image-container {
+	  .pentagon-container .icon2 .image-container {
+    position: absolute;
+    width: 80px;
+	transition-delay: 2s;
+	transition: 2s;
+	transition-timing-function: ease-in-out;
+    transform-origin: 140%;
+    translate: -90%;
+    z-index: 100;
+  }
+  .pentagon-container .icon2 {
+    position: relative;
+	transition-delay: 2s;
+	transition: 2s;
+	transition-timing-function: ease-in-out;
+    z-index: 100;
+	height: 100%
+  }
+}
+
+@media screen and (min-width:1466px) {
+	  .pentagon-container .icon2 .image-container {
     position: absolute;
     width: 90px;
-    transition: 1s;
+	transition-delay: 2s;
+	transition: 2s;
+	transition-timing-function: ease-in-out;
     transform-origin: 150%;
     translate: -100%;
     z-index: 100;
   }
+  .pentagon-container .icon2 {
+	position: relative;
+	transition-delay: 2s;
+	transition: 2s;
+	transition-timing-function: ease-in-out;
+	z-index: 100;
+	height: 100%
+  }
+}
+
+.primary-button a {
+  display: inline-block;
+  background-color: #EB4646;
+  color: #fff;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-size: 40px;
+  padding: 12px 18px;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+}
+
+.primary-button a:hover {
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+	background-color: #002633;
 }
 
 .pentagon-container .icon2 .image-container.active {
@@ -219,7 +286,7 @@ td {border-right:1px solid #fff;}
 }
 
 .pentagon-container .icon2 .image-container img {
-  transform: rotate(calc(-360deg / 5 * var(--i))) rotate(-15deg);
+  transform: rotate(calc(-360deg / 5 * var(--i))) rotate(-18deg);
 }
 
 /* Backgrounds */
@@ -252,7 +319,7 @@ td {border-right:1px solid #fff;}
 .background-blue-hightlight .aside-nav > ul > li.active-item > a:link, .background-blue-hightlight .aside-nav > ul > li.active-item > a:visited,
 .primary-color-blue .background-primary-hightlight .top-nav .active-item > a, .primary-color-blue .background-primary-hightlight .top-nav li a:hover, .primary-color-blue .background-primary-hightlight .aside-nav li a:hover, 
 .primary-color-blue .background-primary-hightlight .aside-nav > ul > li.active-item > a:link, .primary-color-blue .background-primary-hightlight .aside-nav > ul > li.active-item > a:visited {
-  background: #005881 none repeat scroll 0 0;
+  background: #0038a5 none repeat scroll 0 0;
   color: #fff;
 } 
 .background-aqua-hightlight .top-nav .active-item > a, .background-aqua-hightlight .top-nav li a:hover, .background-aqua-hightlight .aside-nav li a:hover, 
@@ -419,7 +486,7 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
   background-color: #f2684c !important;
 }
 .background-blue, .primary-color-blue .background-primary {
-  background-color: #005881 !important;
+  background-color: #0038a5 !important;
 }
 .background-aqua, .primary-color-aqua .background-primary {
   background-color: #00B5A6 !important;
@@ -1527,7 +1594,7 @@ section, header {
   color: #EB4646 !important;
 }
 .background-blue .background-white.button-more, .primary-color-blue .background-primary .background-white.button-more {
-  color: #08587d !important;
+  color: #0038a5 !important;
 }
 .background-aqua .background-white.button-more, .primary-color-aqua .background-primary .background-white.button-more {
   color: #5EB6AF !important;
