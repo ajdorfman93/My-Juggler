@@ -1,9 +1,3 @@
-/*
- * Responsee CSS - v6 - 2019-06-22
- * https://www.myresponsee.com
- * Copyright 2019, Vision Design - graphic zoo
- * Free to use under the MIT license.
-*/
 * {  
   -webkit-box-sizing:border-box;
   -moz-box-sizing:border-box;
@@ -1033,17 +1027,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
     height:0;
     overflow:hidden;
   }
-	
-.top-image-container {
-    width: 100% !important;
-    overflow: hidden !important; /* Hides vertical overflow */
-}
 
-.carousel-image {
-    width: 100% !important; /* Makes the image fill the container width */
-    height: 100% !important; /* Ensures image height is also managed */
-    object-fit: cover !important; /* Makes sure the image covers the entire container */
-}
   .hide-xxl,.hide-xl,.hide-l,.hide-m {display:initial!important;}
   .hide-s {display:none!important;}
   .count-number {margin-right:-1.25rem;} 
