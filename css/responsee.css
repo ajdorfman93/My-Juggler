@@ -132,7 +132,7 @@ mark {
 .text-center .vertical-center * {justify-content: center;}
 
 .size-960.align-content-left .line,.size-1140.align-content-left .line,.size-1280.align-content-left .line,.size-1520.align-content-left .line {margin-left:0;}
-form {line-height:1.4;}
+
 nav {
   display:block;
   width:100%;

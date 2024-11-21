@@ -115,8 +115,8 @@ a.text-tag:link {
   padding: 6px 9px;
 }
 a.text-tag:link:hover {
-  background: #002633 none repeat scroll 0 0;
-  border: 1px solid #002633;
+  background: #304c61 none repeat scroll 0 0;
+  border: 1px solid #304c61;
   color: #fff;
   transition: all 0.20s linear 0s;
   -o-transition: all 0.20s linear 0s;
@@ -286,7 +286,7 @@ td {border-right:1px solid #fff;}
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
-	background-color: #002633;
+	background-color: #304c61;
 }
 
 .pentagon-container .icon2 .image-container.active {
@@ -341,7 +341,7 @@ td {border-right:1px solid #fff;}
 .background-dark-hightlight .aside-nav > ul > li.active-item > a:link, .background-dark-hightlight .aside-nav > ul > li.active-item > a:visited,
 .primary-color-dark .background-primary-hightlight .top-nav .active-item > a, .primary-color-dark .background-primary-hightlight .top-nav li a:hover, .primary-color-dark .background-primary-hightlight .aside-nav li a:hover, 
 .primary-color-dark .background-primary-hightlight .aside-nav > ul > li.active-item > a:link, .primary-color-dark .background-primary-hightlight .aside-nav > ul > li.active-item > a:visited {
-  background: #002633 none repeat scroll 0 0;
+  background: #304c61 none repeat scroll 0 0;
   color: #fff;
 }
 .background-none {
@@ -355,7 +355,7 @@ video {
 
 /* Top Nav */
 .top-nav li a, .background-white .top-nav li a {
-  color: #002633;
+  color: #304c61;
   font-size: 0.85rem;
   padding: 0.7em 1.25em;
 }
@@ -367,7 +367,7 @@ nav {
   z-index: 2;
 }  
 .top-nav ul ul {
-  background: #002633 none repeat scroll 0 0;
+  background: #304c61 none repeat scroll 0 0;
 }
 .top-nav li ul li {
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
@@ -376,7 +376,7 @@ nav {
   border-bottom: 0;
 }
 .top-nav li ul li a, .background-white .top-nav li ul li a, .top-nav .active-item li a {
-  background: #002633 none repeat scroll 0 0;
+  background: #304c61 none repeat scroll 0 0;
   color: rgba(255,255,255, 0.75);
 }
 ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .aside-submenu > a::after, ul.chevron .aside-sub-submenu > a::after {
@@ -405,7 +405,7 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
 .background-white .h1, .background-white .h2, .background-white .h3, .background-white .h4, .background-white .h5, .background-white .h6, 
 .primary-color-white .background-primary h1, .primary-color-white .background-primary h2, .primary-color-white .background-primary h3, .primary-color-white .background-primary h4, .primary-color-white .background-primary h5, .primary-color-white .background-primary h6,
 .primary-color-white .background-primary .h1, .primary-color-white .background-primary .h2, .primary-color-white .background-primary .h3, .primary-color-white .background-primary .h4, .primary-color-white .background-primary .h5, .primary-color-white .background-primary .h6 {
-  color: #002633;
+  color: #304c61;
 } 
 .image-hover-overlay-content *,
 .background-orange, .background-orange p, a.background-orange, a.background-orange:visited, a.background-orange:link, .background-orange a, .background-orange a:link, .background-orange a:visited, .background-orange a:hover, .background-orange a:active,
@@ -456,7 +456,7 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
   color: #00B5A6 !important;
 }
 .text-dark, .text-dark *, .primary-color-dark .text-primary, .primary-color-dark .text-primary * {
-  color: #002633 !important;
+  color: #304c61 !important;
 } 
 .text-primary-hover, .text-white-hover, .text-yellow-hover, .text-orange-hover, .text-red-hover, .text-pink-hover, .text-purple, .text-blue-hover, .text-light-blue, .text-aqua-hover, .text-green-hover, .text-dark-hover {
   transition: color 0.20s linear 0s;
@@ -481,7 +481,7 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
   color: #00B5A6 !important;
 }
 .text-dark-hover:hover, .primary-color-dark .text-primary-hover:hover {
-  color: #002633 !important;
+  color: #304c61 !important;
 } 
 
 /* Background Colors */
@@ -524,10 +524,15 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
   -ms-transition: all 0.20s linear 0s !important;
   -moz-transition: all 0.20s linear 0s !important;
   -webkit-transition: all 0.20s linear 0s !important;
+	background: 
+	rgba(250, 250, 250, 0.2);
 }
 
 .button:hover, a.button:hover, a.button:link:hover, a.button:visited:hover {
-  box-shadow: 0 0 100px 100px rgba(255, 255, 255, 0.25) inset;
+    -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+	background-color: #304c61;
 }
 
 /* Containers */
@@ -582,7 +587,7 @@ visibility:hidden;
   margin-left: 1.25rem !important;
 }
 .margin-right {
-  margin-right: 1.25rem !important;
+  margin-right: 0 !important;
 }
 .margin-top-bottom {
   margin-top: 1.25rem !important;
@@ -816,17 +821,8 @@ a:link.text-social:hover {
 .pinterest, a:link.pinterest {background: #cb2027 none repeat scroll 0 0;}
 .flickr, a:link.flickr {background: #ff0084 none repeat scroll 0 0;}
 
-/* Forms */
-form.customform input, form.customform textarea, form.customform select {
-  background: rgba(0, 0, 0, 0.03) none repeat scroll 0 0;
-  border: 1px solid rgba(0, 0, 0, 0.14);
-  font-size: 12px;
-  padding: 0.625rem;
-  width: 100%;
-}
-form.customform input:hover, form.customform textarea:hover, form.customform select:hover, form.customform input:focus, form.customform textarea:focus, form.customform select:focus {
-  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-}
+
+
 /* -1366 version */
 @media screen and (max-width:1366px) {
     .margin-xl-bottom {
@@ -1097,7 +1093,7 @@ form.customform input:hover, form.customform textarea:hover, form.customform sel
     }
     
     .top-nav li a, .background-white .top-nav li a {
-      background: #002633 none repeat scroll 0 0;
+      background: #304c61 none repeat scroll 0 0;
       color: #fff;
       font-size: 1.1em;
       padding: 1em;
@@ -1504,17 +1500,6 @@ nav {
   color: rgba(0,0,0, 0.75);
 }
 
-/* Custom form */
-.customform input, .customform textarea {
-  border: 0 !important;
-  background: rgba(0,0,0,0) !important;
-  border-bottom: 2px solid rgba(255,255,255,0.3) !important;
-  color: #fff;
-  font-size: 15px !important;
-}
-.customform .required {
-  border-bottom: 2px solid #dd442c !important;
-}
 
 section, header {
   position:relative;
@@ -1584,6 +1569,18 @@ section, header {
   z-index: -1;
 }
 
+/* Hover effect for the button */
+#form-submit.button:hover {
+  background-color: #304c61;
+}
+
+.button-more:hover {  
+	-moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  -webkit-transition: all 0.2s linear;
+	background-color: #304c61 !important;
+}
+
 /* Buttons */
 .button, a.button, a.button:link, a.button:visited {
   border: 0;
@@ -1593,10 +1590,11 @@ section, header {
   text-transform: uppercase;
   padding: 9px 15px;
   display: inline-block;
-  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 /* Background Colors */
-.background-orange .background-white.button-more, .primary-color-orange .background-primary .background-white.button-more {
+.background-orange .background-white, .primary-color-orange .background-primary .background-white {
   color: #DAA248 !important;
 }
 .background-red .background-white.button-more, .primary-color-red .background-primary .background-white.button-more {
@@ -1609,7 +1607,7 @@ section, header {
   color: #5EB6AF !important;
 }
 .background-dark .background-white.button-more, .primary-color-dark .background-primary .background-white.button-more {
-  color: #002633 !important; 
+  color: #304c61 !important; 
 }
 
 @media screen and (max-width:768px) {
@@ -1661,102 +1659,7 @@ section, header {
     background-position: right;
   }
 }
-/*
-========================
----- CONTACT STYLE -----
-========================
-*/
 
-.contact-content {
-  height: 40vw;
-  background-image: repeating-linear-gradient(
-        -45deg,
-        transparent,
-        transparent 5px,
-       #c8e8f3 5px,
-        #c8e8f3 10px
-    );
-  padding: 0px 60px;
-  position: relative;
-  margin: 0 auto;
-}
-
-.contact-content .heading {
-  padding-top: 10%;
-}
-
-.contact-content .contat-form {
-  background-color: rgba(250, 250, 250, 0.03);
-  padding: 30px 80px 30px 30px;
-  margin-right: -50px;
-}
-
-.contact-content input {
-  margin-bottom: 20px;
-  padding-left: 15px;
-  width: 100%;
-  height: 40px;
-  display: inline-block;
-  line-height: 40px;
-  font-size: 13px;
-  color: #0f1b61;
-  background-color: rgba(250, 250, 250, 0.05);
-  border: none;
-  outline: none;
-  border-radius: 0;
-  box-shadow: none;
-}
-
-
-.contact-content textarea {
-  margin-bottom: 20px;
-  padding-left: 15px;
-  width: 100%;
-  max-width: 100%;
-  max-height: 180px;
-  height: 140px;
-  display: inline-block;
-  line-height: 40px;
-  font-size: 13px;
-  color: #0f1b61;
-  background-color: rgba(250, 250, 250, 0.05);
-  border: none;
-  outline: none!important;
-  border-radius: 0;
-  box-shadow: none;
-}
-
-.contact-content button {
-  display: inline-block;
-  background-color: #7f00e0;
-  color: #fff;
-  letter-spacing: 1px;
-  font-size: 11px;
-  padding: 12px 18px;
-  font-weight: 300;
-  text-decoration: none;
-  text-transform: uppercase;
-  border: 1px solid transparent;
-  border-radius: 0px;
-}
-
-.contact-content button:hover {
-  background-color: transparent;
-  color: #7f00e0;
-  border: 1px solid #7f00e0;
-  -moz-transition: all 0.2s linear;
-  -o-transition: all 0.2s linear;
-  -webkit-transition: all 0.2s linear;
-}
-
-.contact-content .more-info {
-  background-color: #fff;
-  padding: 30px;
-  margin-top: 50px;
-  position: absolute;
-  margin-left: -30px;
-  margin-right: -100px;
-}
 @media screen and (max-width:768px) {
     .background-red-hightlight .top-nav .active-item > a, .background-red-hightlight .top-nav li a:hover, .background-red-hightlight .aside-nav li a:hover, 
 .background-red-hightlight .aside-nav > ul > li.active-item > a:link, .background-red-hightlight .aside-nav > ul > li.active-item > a:visited,
@@ -1765,5 +1668,59 @@ section, header {
   background: #fff none repeat scroll 0 0;
   color: #fff !important;
         background: #304c61 !important;
-    }
+    }  }
+/* Reset fieldset styles */
+fieldset {
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+@media screen and (max-width:768px) {
+	.nav-text:hover {
+		background: #304c61 !important;
+	}
+}
+
+/* Common styles for form controls */
+.form-control {
+    margin-bottom: 20px;
+    width: 100%;
+    font-size: 12px;
+    background-color: rgba(250, 250, 250, 0.2);
+    border: none;
+    outline: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+/* Styles specific to input elements */
+input.form-control {
+    padding-left: 15px;
+    height: 40px;
+    line-height: 40px;
+    display: block;
+}
+
+/* Styles specific to textarea elements */
+textarea.form-control {
+    padding: 10px 15px;
+    resize: vertical; /* Allow users to resize the textarea vertically */
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+/* Optional: Style for the submit buttons */
+.button {
+    background-color: rgba(250, 250, 250, 0.2);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Optional: Hover effect for buttons */
+.button:hover {
+    background-color: #304c61;
 }

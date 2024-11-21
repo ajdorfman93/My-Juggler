@@ -9,6 +9,8 @@
       <link rel="stylesheet" href="css/responsee.css">
       <link rel="stylesheet" href="owl-carousel/owl.carousel.css">
       <link rel="stylesheet" href="owl-carousel/owl.theme.css">
+	   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+
       <!-- CUSTOM STYLE -->      
       <link rel="stylesheet" href="css/template-style.css">
       <link href="https://fonts.googleapis.com/css?family=Barlow:100,300,400,700,800&amp;subset=latin-ext" rel="stylesheet">  
@@ -110,7 +112,7 @@
         <section class="grid margin">
           <!-- Image-->
          	<div class="s-12 m-6 margin-bottom">
-			<iframe width=100% height="100%" src="https://www.youtube.com/embed/-q0Uk5s252s?si=KQbhJRsdSG_OzNUC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      
+			<iframe width="100%" height="100%" src="https://www.youtube.com/embed/-q0Uk5s252s?si=KQbhJRsdSG_OzNUC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      
 			</div>
           	<div class="s-12 m-6 padding-2x margin-bottom background-blue">
             <h2 class="text-strong text-size-20 padding text-center text-uppercase">I want to get started: </h2>
@@ -120,61 +122,72 @@
            </div>
         </section>
         
-		          <!-- SECTION 3 --> 
-        <section class="grid margin">
-          <!-- Image-->
-          <div class="s-12 m-6 padding-2x margin-bottom background-red">
-            <h2 class="text-strong text-size-50 text-line-height-1">I want to get started: </h2>
-            <div class="contat-form">
-                            <form id="contac2t" action="https://formspree.io/f/mjkvoobo" method="post">
-                              <fieldset>
-                                <input name="name" type="text" class="form-control" id="name2" placeholder="Your Name" required>
-                              </fieldset>
-                              <fieldset>
-                                <input name="email" type="email" class="form-control" id="email2" placeholder="Email" required>
-                              </fieldset>
-                              <fieldset>
-                                <textarea name="message" rows="4" class="form-control" id="message2" placeholder="Message" required></textarea>
-                              </fieldset>
-                              <fieldset>
-                                <button type="submit" id="form-submit2" class="btn">Send Message</button>
-                              </fieldset>
-                            </form>
-                          </div>
-          </div>
-        
-                                  <div class="s-12 m-6 margin-bottom">
-                          <div class="contat-form">
-                            <form id="contact" action="https://formspree.io/f/mjkvoobo" method="post">
-                              <fieldset>
-                                <input name="name" type="text" class="form-control" id="name" placeholder="Your Name" required>
-                              </fieldset>
-                              <fieldset>
-                                <input name="email" type="email" class="form-control" id="email" placeholder="Email" required>
-                              </fieldset>
-                              <fieldset>
-                                <textarea name="message" rows="4" class="form-control" id="message" placeholder="Message" required></textarea>
-                              </fieldset>
-                              <fieldset>
-                                <button type="submit" id="form-submit" class="button">Send Message</button>
-                              </fieldset>
-                            </form>
-                          </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                          <div class="more-info">
-                            <p>By submitting this form I agree to receive notification related text messages from Yehoshua Z Wenger and Safedrop Solution LLC. Msg &amp data rates may apply. Message frequency varies, Unsubscribe at any time by replying STOP.<br><br>
-                            <i class="fa fa-phone" style="font-size:18px;color:black"></i> +1-732-633-7554
-			
-								<br><i class="fa fa-envelope" style="font-size:18px;color:black"></i> Sales@safedropsolution.com
+		         <!-- SECTION 3 -->        
+		  <section class="grid margin">
+  <div class="s-12 m-6 l-6 margin-bottom margin-bottom background-red">
+    <div class="subscribe-form padding">
+          <h2 class="text-strong text-size-50 text-line-height-1 ">Subscribe</h2>
+      <h2 class="text-strong text-size-20 margin-left">
+        BECOME PART OF OUR FORUM.
+		<br>FIND NEW IDEAS AND WAYS TO BALANCE YOUR “LIFE/TIME.”<br>		  
+      
+		<p>Get your starter card by signing up today!</p></h2>
+		<form id="subscribe" action="https://formspree.io/f/mjkvoobo" method="post">
+        <fieldset>
+          <input name="name" type="text" class="form-control text-size-20 margin-bottom-10" id="name-subscribe" placeholder="Your Name" required>
+        </fieldset>
+        <fieldset>
+          <input name="phone" type="tel" class="form-control text-size-20 margin-bottom-10" id="phone-subscribe" placeholder="Phone" required>
+        </fieldset>        
+		  <fieldset>
+          <input name="email" type="email" class="form-control text-size-20 margin-bottom-10" id="email-subscribe" placeholder="Email" required>
+        </fieldset>        
+		  <fieldset>
+          <input name="address" type="text" class="form-control text-size-20 margin-bottom-10" id="address-subscribe" placeholder="Address" required>
+        </fieldset>
+        <fieldset>
+          <textarea name="message" rows="3" class="form-control text-size-20 margin-bottom-10" id="message-subscribe" placeholder="Message" required></textarea>
+        </fieldset>
+        <fieldset>
+          <button type="submit" id="subscribe-submit" class="button">Send Message</button>
+        </fieldset>
+      </form>
+    </div>
+  </div>  
+			  <div class="s-12 m-6 l-6 margin-bottom background-orange">
+    <div class="contact-form padding">
+		    <h2 class="text-strong text-size-50 text-line-height-1">Contact</h2>
+		 <h2 class="text-strong text-size-20 margin-left">
+        LET LIFE | TIME | BALANCE BEGIN		  
+     
+		 </h2>
+	<a href="" id="learn" class="button-more margin-bottom-10 background-red">Learn More </a>
+		<a href="" id="download" class="button-more margin-bottom-10 background-red">Download your Starter Card</a>
+		<p class="margin-left">Contact us</p>
+      <form id="contact" action="https://formspree.io/f/mjkvoobo" method="post">
+        <fieldset>
+          <input name="name" type="text" class="form-control text-size-20 margin-bottom-10 margin-top-10" id="name" placeholder="Your Name" required>
+        </fieldset>
+        <fieldset>
+          <input name="phone" type="tel" class="form-control text-size-20 margin-bottom-10" id="phone" placeholder="Phone" required>
+        </fieldset>  
+        <fieldset>
+          <input name="email" type="email" class="form-control text-size-20 margin-bottom-10" id="email" placeholder="Email" required>
+        </fieldset>        
+		  <fieldset>
+          <input name="address" type="text" class="form-control text-size-20 margin-bottom-10" id="address" placeholder="Address" required>
+        </fieldset>
+        <fieldset>
+          <textarea name="message" rows="3" class="form-control text-size-20 margin-bottom-10" id="message" placeholder="Message" required></textarea>
+        </fieldset>
+        <fieldset>
+          <button type="submit" id="form-submit" class="button">Send Message</button>
+        </fieldset>                          
+      </form>
+    </div>
+ </div> 
+</section>
 
-								<br><i class="fa fa-whatsapp" style="font-size:18px;color:black"></i> +1-848-469-3059</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-        </section>                    
       </main>
       
        
