@@ -139,8 +139,15 @@ nav {
   background:#152732;
 }
 
-.text-center .glasses img {
-	height: 100%
+.image-container {
+    width: 100%;
+    overflow: hidden; /* Hides vertical overflow */
+}
+
+.carousel-image {
+    width: 100%; /* Makes the image fill the container width */
+    height: 100%; /* Ensures image height is also managed */
+    object-fit: cover; /* Makes sure the image covers the entire container */
 }
 .line::after, nav::after, .center::after, .box::after, .margin::after, .margin2x::after, .grid.full::after {
   clear:both;
