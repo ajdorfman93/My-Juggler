@@ -239,9 +239,10 @@ ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .asi
 @media screen and (min-width:769px) {
   .aside-nav .count-number {
 	  margin-left:-1.25rem;	
-	  float:right;	
+	  float: right;	
   }
-  .top-nav li:hover > ul {
+
+	.top-nav li:hover > ul {
 	  display:block;
 	  z-index:10;
   }  
@@ -249,9 +250,7 @@ ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .asi
     left:100%;
     margin:-2.5rem 0;
     width:100%;
-  } 
-
-
+  } 	
 }
 .nav-text,.aside-nav-text {display:none;}
 .aside-nav a,.aside-nav a:link,.aside-nav a:visited,.aside-nav li > ul,.top-nav a,.top-nav a:link,.top-nav a:visited {
