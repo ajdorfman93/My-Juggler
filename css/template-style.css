@@ -1656,8 +1656,22 @@ section, header {
 @media screen and (min-width: 850px) {
   .background-image {
     background-position: right;
-  }
+	  
+	}}
+@media screen and (max-width: 850px) {
+		.carousel-fade-transition .item {
+			padding: 0px 0 190px 0;}
+  .background-image {
+    background-position: right;
+    width: 100%; /* Full width of the container */
+    height: 400px; /* Set a fixed height or use a responsive height based on your needs */
+    background-image: url('https://iili.io/27dinf9.jpg'); /* The background image URL */
+    background-size: cover; /* Scales the image to cover the entire container */
+    background-position: top; /* Justifies the image to the top */
+    overflow: hidden; /* Hides any overflowing parts of the image */
 }
+  }
+
 
 @media screen and (max-width:768px) {
     .background-red-hightlight .top-nav .active-item > a, .background-red-hightlight .top-nav li a:hover, .background-red-hightlight .aside-nav li a:hover, 
