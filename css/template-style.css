@@ -388,6 +388,7 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
 
 .logo img {
   margin: 0px auto 10px auto;
+  padding-top: 3px !important;
   max-width: 300px;
   width: 100%;
 }
@@ -1467,6 +1468,7 @@ nav {
   margin: 0 0;
   width: 203px;
   position: relative;
+  padding-top: 3px !important
 }
 .top-nav li {
   padding: 1.5rem 0;
@@ -1623,6 +1625,7 @@ section, header {
   .logo img {
     margin: 0 auto;
     max-width: 300px;
+	padding-top: 3px !important 
   }
   .logo img.logo-white {
     display:none;
