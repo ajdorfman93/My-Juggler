@@ -387,7 +387,7 @@ ul.chevron .submenu > a::after, ul.chevron .sub-submenu > a::after, ul.chevron .
 
 
 .logo img {
-  margin: 0 auto;
+  margin: 0px auto 10px auto;
   max-width: 300px;
   width: 100%;
 }
@@ -1084,12 +1084,6 @@ a:link.text-social:hover {
         padding: 10px 0;
         height: 60px;
     }
-    .logo img {
-      max-width: 172px;
-      max-height: 40px;
-      margin: 0 auto;
-      width: auto;
-    }
     
     .top-nav li a, .background-white .top-nav li a {
       background: #304c61 none repeat scroll 0 0;
@@ -1231,6 +1225,11 @@ a:link.text-social:hover {
     .owl-nav {
       display: none;
     }
+	
+	.logo img {
+		width: 160px !important
+	}
+	
 }  
 
 
@@ -1464,7 +1463,7 @@ nav {
   z-index: 2;
 }
 .logo img {
-  margin: 0;
+  margin: 0 auto;
   width: 203px;
   position: relative;
 }
@@ -1694,6 +1693,7 @@ fieldset {
 	.nav-text:hover {
 		background: #304c61 !important;
 	}
+
 }
 
 /* Common styles for form controls */
