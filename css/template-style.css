@@ -1227,7 +1227,8 @@ a:link.text-social:hover {
     }
 	
 	.logo img {
-		width: 160px !important
+		width: 160px !important;
+		padding-top: 3px !important
 	}
 	
 }  
@@ -1695,7 +1696,9 @@ fieldset {
 	}
 
 }
-
+	.logo img {
+		padding-top: 3px !important
+	}
 /* Common styles for form controls */
 .form-control {
     margin-bottom: 20px;
