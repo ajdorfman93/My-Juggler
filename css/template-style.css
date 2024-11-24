@@ -11,7 +11,7 @@ body {
   background: #fff;
 }
 p {
-  color: #777;
+  color: #fff;
   font-size: 0.85rem;
   line-height: 1.6rem;
 }
@@ -1688,6 +1688,7 @@ fieldset {
     padding: 0;
     margin: 0;
     border: 0;
+	color: white
 }
 
 @media screen and (max-width:768px) {
@@ -1707,6 +1708,7 @@ fieldset {
     outline: none;
     border-radius: 0;
     box-shadow: none;
+	color: white !important
 }
 
 /* Styles specific to input elements */
@@ -1715,6 +1717,7 @@ input.form-control {
     height: 40px;
     line-height: 40px;
     display: block;
+	color: white !important
 }
 
 /* Styles specific to textarea elements */
@@ -1723,6 +1726,7 @@ textarea.form-control {
     resize: vertical; /* Allow users to resize the textarea vertically */
     overflow-wrap: break-word;
     white-space: pre-wrap;
+	color: white !important
 }
 	
 .top-img-container {
