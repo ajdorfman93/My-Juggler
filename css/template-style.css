@@ -1464,7 +1464,7 @@ nav {
   z-index: 2;
 }
 .logo img {
-  margin: 0 auto;
+  margin: 0 0;
   width: 203px;
   position: relative;
 }
@@ -1696,9 +1696,7 @@ fieldset {
 	}
 
 }
-	.logo img {
-		padding-top: 3px !important
-	}
+
 /* Common styles for form controls */
 .form-control {
     margin-bottom: 20px;
