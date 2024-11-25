@@ -201,8 +201,8 @@ td {border-right:1px solid #fff;}
 	transition-timing-function: ease-in-out;
     transform-origin: 150%;
     translate: -100%;
-    z-index: 100;
-  }
+	  z-index: 100;  }
+
 }
 
 @media screen and (min-width:1140px) {
@@ -1231,6 +1231,9 @@ a:link.text-social:hover {
 		width: 160px !important;
 		padding-top: 3px !important
 	}
+		.item .background-image{
+	  background-image: url('https://iili.io/27dinf9.jpg') !important;
+  }
 	
 }  
 
@@ -1361,6 +1364,9 @@ a:link.text-social:hover {
     .text-s-size-80 {font-size: 80px !important;}
     .text-s-size-90 {font-size: 90px !important;}
     .text-s-size-100 {font-size: 100px !important;}  
+			.item .background-image{
+	  background-image: url('https://iili.io/27dinf9.jpg') !important;
+  }
 } 
 
 /* Typography */
@@ -1419,6 +1425,8 @@ a:link.text-social:hover {
   }
   .padding-2x.logo {
     padding: 14px 0 14px 45px !important;
+	  
+	  
   }
 }  
 .margin-left-150 {
@@ -1663,15 +1671,9 @@ section, header {
 	}}
 @media screen and (max-width: 850px) {
 		.carousel-fade-transition .item {
-			padding: 0px 0 190px 0;}
+			padding: 0px 0 200px 0;}
   .background-image {
     background-position: right;
-    width: 100%; /* Full width of the container */
-    height: 400px; /* Set a fixed height or use a responsive height based on your needs */
-    background-image: url('https://iili.io/27dinf9.jpg'); /* The background image URL */
-    background-size: cover; /* Scales the image to cover the entire container */
-    background-position: top; /* Justifies the image to the top */
-    overflow: hidden; /* Hides any overflowing parts of the image */
 }
   }
 
@@ -1754,4 +1756,10 @@ textarea.form-control {
 /* Optional: Hover effect for buttons */
 .button:hover {
     background-color: #304c61;
+}
+@media screen and (max-width: 700px) {
+  .item.background-image {
+    background-image: url('../img/Two hands juggling Background 700w.jpg') !important;
+	  background-position: bottom
+  }
 }

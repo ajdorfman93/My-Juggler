@@ -998,11 +998,11 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   .grid .m-row-9 {grid-row:span 9;}
   .grid .m-row-10 {grid-row:span 10;}
   .grid .m-row-11 {grid-row:span 11;}
-  .grid .m-row-12 {grid-row:span 12;}  
+  .grid .m-row-12 {grid-row:span 12;}
 }
 
-@media screen and (max-width:480px) {
-  .size-960,.size-1140,.size-1280,.size-1520 {max-width:480px;}
+@media screen and (max-width:350px) {
+  .size-960,.size-1140,.size-1280,.size-1520 {max-width:350px;}
   .aside-nav li a {text-align: center;}
   .minimize-on-small .aside-nav-text {
     background:#152732 none repeat scroll 0 0;
@@ -1117,3 +1117,11 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   padding:0;
   width:100%;
 }
+
+@media screen and (max-width: 700px) {
+		.carousel-fade-transition .item {
+			padding: 0px 0 190px 0;}
+ .item .background-image img{
+	  background: url("../img/Two hands juggling Background 700w.jpg")!important;
+    background-position: right;
+	}}
