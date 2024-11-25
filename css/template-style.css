@@ -1646,6 +1646,11 @@ section, header {
     background: none repeat scroll 0 0 #f2684c;
     color: #fff!important
   }
+	
+	.top-nav li ul li a, .background-white .top-nav li ul li a, .top-nav .active-item li a {
+  background: #f2684c none repeat scroll 0 0;
+  color: rgba(0,0,0, 0.75);
+}
   .margin-top-130 {
     margin-top: 0!important;
   }
