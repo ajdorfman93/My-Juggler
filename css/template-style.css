@@ -300,6 +300,7 @@ td {border-right:1px solid #fff;}
 .background-image {
   background-repeat: no-repeat;
   background-size: cover;
+	background-position: right		
 }
 .background-white-hightlight .top-nav .active-item > a, .background-white-hightlight .top-nav li a:hover, .background-white-hightlight .aside-nav li a:hover, 
 .background-white-hightlight .aside-nav > ul > li.active-item > a:link, .background-white-hightlight .aside-nav > ul > li.active-item > a:visited,
@@ -1230,11 +1231,7 @@ a:link.text-social:hover {
 	.logo img {
 		width: 160px !important;
 		padding-top: 3px !important
-	}
-		.item .background-image{
-	  background-image: url('https://iili.io/27dinf9.jpg') !important;
-  }
-	
+	}	
 }  
 
 
@@ -1364,10 +1361,7 @@ a:link.text-social:hover {
     .text-s-size-80 {font-size: 80px !important;}
     .text-s-size-90 {font-size: 90px !important;}
     .text-s-size-100 {font-size: 100px !important;}  
-			.item .background-image{
-	  background-image: url('https://iili.io/27dinf9.jpg') !important;
   }
-} 
 
 /* Typography */
 .text-uppercase {
@@ -1576,6 +1570,7 @@ section, header {
   right: 0;
   left: 0; 
   z-index: -1;
+	background-position: right
 }
 
 /* Hover effect for the button */
