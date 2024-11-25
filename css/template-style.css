@@ -1666,14 +1666,14 @@ section, header {
 } 
 @media screen and (min-width: 850px) {
   .background-image {
-    background-position: right;
+    background-position: right !important;
 	  
 	}}
 @media screen and (max-width: 850px) {
 		.carousel-fade-transition .item {
 			padding: 0px 0 200px 0;}
   .background-image {
-    background-position: right;
+    background-position: right !important;
 }
   }
 
