@@ -1717,7 +1717,7 @@ input.form-control {
     height: 40px;
     line-height: 40px;
     display: block;
-	color: white !important
+	color: black !important
 }
 
 /* Styles specific to textarea elements */
@@ -1726,7 +1726,7 @@ textarea.form-control {
     resize: vertical; /* Allow users to resize the textarea vertically */
     overflow-wrap: break-word;
     white-space: pre-wrap;
-	color: white !important
+	color: black!important
 }
 	
 .top-img-container {
