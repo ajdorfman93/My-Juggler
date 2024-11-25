@@ -1,0 +1,2176 @@
+Uri: https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/b/398/files/2019/04/1998-04530-003-1sagefw.pdf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\web.sas.upenn.edu\dist\b\398\files\2019\04\1998-04530-003-1sagefw.pdf
+Content Type: application/pdf
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://myjuggler.com/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/12-probing-questions-to-ask-yourself/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\12-probing-questions-to-ask-yourself\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/12-probing-questions-to-ask-yourself/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\12-probing-questions-to-ask-yourself\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/4-traits-found-in-psychologically-healthy-individuals/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\4-traits-found-in-psychologically-healthy-individuals\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/4-traits-found-in-psychologically-healthy-individuals/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\4-traits-found-in-psychologically-healthy-individuals\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/5-simple-keys-to-helping-your-partner-feel-heard/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\5-simple-keys-to-helping-your-partner-feel-heard\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/5-simple-keys-to-helping-your-partner-feel-heard/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\5-simple-keys-to-helping-your-partner-feel-heard\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/7-words-to-overcome-your-anxiety/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\7-words-to-overcome-your-anxiety\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/7-words-to-overcome-your-anxiety/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\7-words-to-overcome-your-anxiety\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/9-things-happy-couples-never-ever-say-to-each-other/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\9-things-happy-couples-never-ever-say-to-each-other\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/9-things-happy-couples-never-ever-say-to-each-other/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\9-things-happy-couples-never-ever-say-to-each-other\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/a-documentarian-finds-the-perfect-solution-to-happiness-what-happened-when-he-faked-his-own-death/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\a-documentarian-finds-the-perfect-solution-to-happiness-what-happened-when-he-faked-his-own-death\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/a-documentarian-finds-the-perfect-solution-to-happiness-what-happened-when-he-faked-his-own-death/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\a-documentarian-finds-the-perfect-solution-to-happiness-what-happened-when-he-faked-his-own-death\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/a-psychotherapist-says-parents-who-raise-confident-mentally-strong-kids-always-do-these-3-things-when-praising-their-children/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\a-psychotherapist-says-parents-who-raise-confident-mentally-strong-kids-always-do-these-3-things-when-praising-their-children\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/a-psychotherapist-says-parents-who-raise-confident-mentally-strong-kids-always-do-these-3-things-when-praising-their-children/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\a-psychotherapist-says-parents-who-raise-confident-mentally-strong-kids-always-do-these-3-things-when-praising-their-children\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/a-relationship-secret-of-the-happiest-couples-new-research/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\a-relationship-secret-of-the-happiest-couples-new-research\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/a-relationship-secret-of-the-happiest-couples-new-research/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\a-relationship-secret-of-the-happiest-couples-new-research\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/a-soul-ball-story/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\a-soul-ball-story\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/a-soul-ball-story/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\a-soul-ball-story\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/about/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\about\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/body/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\body\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/career/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\career\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/category/body/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\body\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/category/body/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\body\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/category/career/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\career\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/category/career/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\career\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/category/community/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\community\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/category/community/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\community\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/category/family-friends/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\family-friends\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/category/family-friends/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\family-friends\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/category/how-to-juggle/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\how-to-juggle\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/category/how-to-juggle/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\how-to-juggle\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/category/soul/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\soul\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/category/soul/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\soul\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/category/stories/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\stories\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/category/stories/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\category\stories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/comments/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/community/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\community\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/congratulations-youre-average/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\congratulations-youre-average\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/congratulations-youre-average/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\congratulations-youre-average\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/contact/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/dangerous-assumptions/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\dangerous-assumptions\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/dangerous-assumptions/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\dangerous-assumptions\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/date-night-secrets/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\date-night-secrets\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/date-night-secrets/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\date-night-secrets\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/depression-anxiety-spike-amid-outbreak-and-turbulent-times/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\depression-anxiety-spike-amid-outbreak-and-turbulent-times\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/depression-anxiety-spike-amid-outbreak-and-turbulent-times/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\depression-anxiety-spike-amid-outbreak-and-turbulent-times\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/dont-just-spend-your-time-invest-it/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\dont-just-spend-your-time-invest-it\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/dont-just-spend-your-time-invest-it/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\dont-just-spend-your-time-invest-it\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/ex-lehman-financial-chief-doesnt-look-back/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\ex-lehman-financial-chief-doesnt-look-back\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/ex-lehman-financial-chief-doesnt-look-back/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\ex-lehman-financial-chief-doesnt-look-back\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/family-friends/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\family-friends\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/forget-what-you-think-happiness-is/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\forget-what-you-think-happiness-is\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/forget-what-you-think-happiness-is/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\forget-what-you-think-happiness-is\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/group-teaching-sessions/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\group-teaching-sessions\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/happiness-comes-from-making-others-feel-good/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\happiness-comes-from-making-others-feel-good\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/happiness-comes-from-making-others-feel-good/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\happiness-comes-from-making-others-feel-good\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/how-to-be-married-by-this-time-next-year/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\how-to-be-married-by-this-time-next-year\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/how-to-be-married-by-this-time-next-year/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\how-to-be-married-by-this-time-next-year\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/how-to-spark-powerful-chemistry-through-simple-conversation/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\how-to-spark-powerful-chemistry-through-simple-conversation\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/how-to-spark-powerful-chemistry-through-simple-conversation/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\how-to-spark-powerful-chemistry-through-simple-conversation\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/how-to-stop-worrying-in-five-steps/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\how-to-stop-worrying-in-five-steps\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/how-to-stop-worrying-in-five-steps/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\how-to-stop-worrying-in-five-steps\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/laurie-santos-yale-happiness-professor-on-5-things-that-will-make-you-happier/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\laurie-santos-yale-happiness-professor-on-5-things-that-will-make-you-happier\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/laurie-santos-yale-happiness-professor-on-5-things-that-will-make-you-happier/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\laurie-santos-yale-happiness-professor-on-5-things-that-will-make-you-happier\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/plan/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\plan\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/privacy-policy/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/private-coaching/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\private-coaching\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/resources/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\resources\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/resources/page/2/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\resources\page\2\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/resources/page/3/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\resources\page\3\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/soul/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\soul\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/starter-kit/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\starter-kit\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/the-learning-pyramid/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\the-learning-pyramid\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/three-pillars-of-permanent-happiness/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\three-pillars-of-permanent-happiness\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/three-pillars-of-permanent-happiness/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\three-pillars-of-permanent-happiness\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/videos/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/videos/10-ways-to-love/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\10-ways-to-love\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/videos/10-ways-to-love/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\10-ways-to-love\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/videos/5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/videos/5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/videos/designer-gary-shikhelman-of-garydid-gives-a-shout-out-to-myjuggler/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\designer-gary-shikhelman-of-garydid-gives-a-shout-out-to-myjuggler\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/videos/designer-gary-shikhelman-of-garydid-gives-a-shout-out-to-myjuggler/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\designer-gary-shikhelman-of-garydid-gives-a-shout-out-to-myjuggler\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/videos/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/videos/how-do-you-determine-the-health-of-your-marriage/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\how-do-you-determine-the-health-of-your-marriage\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/videos/how-do-you-determine-the-health-of-your-marriage/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\how-do-you-determine-the-health-of-your-marriage\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/videos/watch-myjuggler-com-founder-marc-moshe-firestone-welcome-to-the-myjuggler-life-plan/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\watch-myjuggler-com-founder-marc-moshe-firestone-welcome-to-the-myjuggler-life-plan\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/videos/watch-myjuggler-com-founder-marc-moshe-firestone-welcome-to-the-myjuggler-life-plan/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\watch-myjuggler-com-founder-marc-moshe-firestone-welcome-to-the-myjuggler-life-plan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/videos/watch-video-from-ben-moss-licensed-therapist-lcsw-los-angeles-ca/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\watch-video-from-ben-moss-licensed-therapist-lcsw-los-angeles-ca\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/videos/watch-video-from-ben-moss-licensed-therapist-lcsw-los-angeles-ca/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\videos\watch-video-from-ben-moss-licensed-therapist-lcsw-los-angeles-ca\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/warren-buffett-says-you-can-increase-your-overall-happiness-by-making-1-simple-choice/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\warren-buffett-says-you-can-increase-your-overall-happiness-by-making-1-simple-choice\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/warren-buffett-says-you-can-increase-your-overall-happiness-by-making-1-simple-choice/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\warren-buffett-says-you-can-increase-your-overall-happiness-by-making-1-simple-choice\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/what-drives-you/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\what-drives-you\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/what-drives-you/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\what-drives-you\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/hnr3otm.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\hnr3otm.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-content/plugins/featured-video-plus/styles/frontend.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-content\plugins\featured-video-plus\styles\frontend.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-content/plugins/ninja-forms/assets/css/display-structure.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-content\plugins\ninja-forms\assets\css\display-structure.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-content/plugins/video-embed-thumbnail-generator/src/public/css/videopack-styles.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-content\plugins\video-embed-thumbnail-generator\src\public\css\videopack-styles.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-content/plugins/video-embed-thumbnail-generator/video-js/kg-video-js-skin.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-content\plugins\video-embed-thumbnail-generator\video-js\kg-video-js-skin.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.min.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-content\plugins\video-embed-thumbnail-generator\video-js\video-js.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-content/themes/juggler/css/resources.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-content\themes\juggler\css\resources.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-content/themes/juggler/css/style.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-content\themes\juggler\css\style.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-content/uploads/pum/pum-site-styles.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-content\uploads\pum\pum-site-styles.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/cache/min/1/wp-includes/css/dashicons.min.css?ver=1728325529
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\cache\min\1\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.24.5
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.24.5
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.24.5
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.24.5
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.24.5
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/lib/animations/styles/bounceIn.min.css?ver=3.24.5
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\lib\animations\styles\bounceIn.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=3.24.5
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\lib\animations\styles\zoomIn.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.31.0
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.31.0
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.31.0
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.31.0
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://myjuggler.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.31.0
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://myjuggler.com/wp-content/plugins/featured-video-plus/img/loadicon_b.gif
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\featured-video-plus\img\loadicon_b.gif
+Content Type: image/gif
+
+Uri: https://myjuggler.com/wp-content/plugins/featured-video-plus/img/loadicon_w.gif
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\featured-video-plus\img\loadicon_w.gif
+Content Type: image/gif
+
+Uri: https://myjuggler.com/wp-content/plugins/featured-video-plus/img/playicon.png
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\featured-video-plus\img\playicon.png
+Content Type: image/png
+
+Uri: https://myjuggler.com/wp-content/plugins/ninja-forms/assets/img/help-info.png
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\ninja-forms\assets\img\help-info.png
+Content Type: image/png
+
+Uri: https://myjuggler.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\plugins\wp-rocket\assets\js\wpr-beacon.min.js
+Content Type: application/javascript
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\fonts\ionicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/fonts/lg.eot?
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/fonts/lg.eot?n1z373
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/fonts/lg.svg?n1z373
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/fonts/lg.ttf?n1z373
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\fonts\lg.ttf
+Content Type: application/octet-stream
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/fonts/lg.woff?n1z373
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/arrow-down.svg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/arrow-up.svg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/bg-001.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\bg-001.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/bg-005.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\bg-005.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/bg-006.jpg?v=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\bg-006.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/bg-1.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/bg-12.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\bg-12.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/bg-2.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/bg-3.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/bg-4.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\bg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/block-001.jpg?v=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\block-001.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/block-002.jpg?v=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\block-002.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/block-003.jpg?v=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\block-003.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/block-4.jpg?v=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\block-4.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/block-5.jpg?v=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\block-5.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/block-6.jpg?v=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\block-6.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/block-8.jpg?v=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\block-8.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/favicons/apple-touch-icon.png
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/favicons/favicon-16x16.png
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/favicons/favicon-32x32.png
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/favicons/safari-pinned-tab.svg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\favicons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/favicons/site.webmanifest
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\favicons\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/loading.gif
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\loading.gif
+Content Type: image/gif
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/logo-alt.svg?v=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\logo-alt.svg
+Content Type: image/svg+xml
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/logo.svg?v=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/plus-light.svg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\plus-light.svg
+Content Type: image/svg+xml
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/video-play.png
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\video-play.png
+Content Type: image/png
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/vimeo-play.png
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\vimeo-play.png
+Content Type: image/png
+
+Uri: https://myjuggler.com/wp-content/themes/juggler/img/youtube-play.png
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\themes\juggler\img\youtube-play.png
+Content Type: image/png
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-3-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-3-550x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-3-550x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-3-768x768.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-3-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-3.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-3.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-4-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-4-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-4-550x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-4-550x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-4-768x768.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-4-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-4.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-4.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-5-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-5-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-5-550x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-5-550x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-5-768x768.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-5-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-5.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-5.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/block-7.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\block-7.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/circle-3-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\circle-3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/circle-3-550x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\circle-3-550x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/circle-3-768x768.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\circle-3-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/circle-3.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\circle-3.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/family-story-1920x1239.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\family-story-1920x1239.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/family-story-550x355.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\family-story-550x355.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/soul-story-1920x1221.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\soul-story-1920x1221.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/09/soul-story-550x350.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\09\soul-story-550x350.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/10/im-26033-550x367.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\10\im-26033-550x367.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/10/im-26033.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\10\im-26033.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/10/im-26034-1080x1622.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\10\im-26034-1080x1622.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/10/im-26034-366x550.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\10\im-26034-366x550.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/10/im-26034-768x1153.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\10\im-26034-768x1153.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/10/im-26034.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\10\im-26034.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2018/10/im-26038-550x408.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2018\10\im-26038-550x408.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-002-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-002-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-002-550x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-002-550x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-002-768x768.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-002-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-002.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-002.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-003-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-003-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-003-550x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-003-550x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-003-768x768.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-003-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-003.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-003.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-02-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-02-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-02-550x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-02-550x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-02-768x768.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-02-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-02.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-02.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-03-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-03-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-03-550x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-03-550x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-03-768x768.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-03-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-03.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-03.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-4-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-4-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-4-550x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-4-550x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-4-768x768.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-4-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-4.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-4.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-5-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-5-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-5-550x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-5-550x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-5-768x768.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-5-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/block-5.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\block-5.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/video-1-1920x1080.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\video-1-1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/video-1-550x309.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\video-1-550x309.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/video-2-1920x1283.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\video-2-1920x1283.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2019/02/video-2-550x368.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2019\02\video-2-550x368.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-1-550x370.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-1-550x370.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-1.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-2-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-2-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-2.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-3-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-3-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-3.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-4-550x394.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-4-550x394.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-4.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-5-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-5-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-5.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-6-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-6-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-6.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-6.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-7-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-7-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-7.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-7.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-8-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-8-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-8.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-8.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-9-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-9-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/blog-9.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\blog-9.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/gary-did-juggler-shout-out-550x309.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\gary-did-juggler-shout-out-550x309.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/gary-did-juggler-shout-out.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\gary-did-juggler-shout-out.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/juggler-starter-kit.pdf
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\juggler-starter-kit.pdf
+Content Type: application/pdf
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/marc-firestone-crop-300x300.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\marc-firestone-crop-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/10/marc-firestone-crop.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\10\marc-firestone-crop.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/20201129145053.mp4
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\20201129145053.mp4
+Content Type: video/mp4
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/20201129145053.mp4?_=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\20201129145053-1.mp4
+Content Type: video/mp4
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/20201129145053_thumb2-550x310.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\20201129145053_thumb2-550x310.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/20201129145053_thumb2.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\20201129145053_thumb2.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/20201129152755.mp4
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\20201129152755.mp4
+Content Type: video/mp4
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/20201129152755.mp4?_=1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\20201129152755-1.mp4
+Content Type: video/mp4
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/20201129152755_thumb2-550x310.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\20201129152755_thumb2-550x310.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/20201129152755_thumb2.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\20201129152755_thumb2.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/70DE1A2D-3F92-4DBE-BB3F-DE2DA86A08A2_4_5005_c.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\70DE1A2D-3F92-4DBE-BB3F-DE2DA86A08A2_4_5005_c.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/block-11.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\block-11.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/jeremy-bishop-EwKXn5CapA4-unsplash-1024x1536.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\jeremy-bishop-EwKXn5CapA4-unsplash-1024x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/jeremy-bishop-EwKXn5CapA4-unsplash-1280x1920.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\jeremy-bishop-EwKXn5CapA4-unsplash-1280x1920.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/jeremy-bishop-EwKXn5CapA4-unsplash-1365x2048.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\jeremy-bishop-EwKXn5CapA4-unsplash-1365x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/jeremy-bishop-EwKXn5CapA4-unsplash-367x550.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\jeremy-bishop-EwKXn5CapA4-unsplash-367x550.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/jeremy-bishop-EwKXn5CapA4-unsplash-768x1152.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\jeremy-bishop-EwKXn5CapA4-unsplash-768x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/jeremy-bishop-EwKXn5CapA4-unsplash-scaled.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\jeremy-bishop-EwKXn5CapA4-unsplash-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/learning-pyramid-2020-1-550x356.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\learning-pyramid-2020-1-550x356.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/learning-pyramid-2020-1-768x498.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\learning-pyramid-2020-1-768x498.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/learning-pyramid-2020-1.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\learning-pyramid-2020-1.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/learning-pyramid-2020-550x356.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\learning-pyramid-2020-550x356.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/learning-pyramid-2020-768x498.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\learning-pyramid-2020-768x498.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/learning-pyramid-2020.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\learning-pyramid-2020.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2020/11/umit-bulut-qbTC7ZwJB64-unsplash.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2020\11\umit-bulut-qbTC7ZwJB64-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/jeison-higuita-gnqmLpNT1IY-unsplash-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\jeison-higuita-gnqmLpNT1IY-unsplash-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/jeison-higuita-gnqmLpNT1IY-unsplash.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\jeison-higuita-gnqmLpNT1IY-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/oziel-gomez-L8-0SAy-aoQ-unsplash-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\oziel-gomez-L8-0SAy-aoQ-unsplash-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/oziel-gomez-L8-0SAy-aoQ-unsplash.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\oziel-gomez-L8-0SAy-aoQ-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/szilvia-basso-cPGv4rXhryc-unsplash-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\szilvia-basso-cPGv4rXhryc-unsplash-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/szilvia-basso-cPGv4rXhryc-unsplash.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\szilvia-basso-cPGv4rXhryc-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/The-Juggler-Card-Back-1536x1017.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\The-Juggler-Card-Back-1536x1017.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/The-Juggler-Card-Back-1920x1271.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\The-Juggler-Card-Back-1920x1271.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/The-Juggler-Card-Back-2048x1355.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\The-Juggler-Card-Back-2048x1355.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/The-Juggler-Card-Back-550x364.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\The-Juggler-Card-Back-550x364.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/The-Juggler-Card-Back-768x508.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\The-Juggler-Card-Back-768x508.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/The-Juggler-Card-Front-1536x1011.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\The-Juggler-Card-Front-1536x1011.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/The-Juggler-Card-Front-1920x1263.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\The-Juggler-Card-Front-1920x1263.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/The-Juggler-Card-Front-2048x1347.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\The-Juggler-Card-Front-2048x1347.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/The-Juggler-Card-Front-550x362.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\The-Juggler-Card-Front-550x362.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/02/The-Juggler-Card-Front-768x505.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\02\The-Juggler-Card-Front-768x505.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/felix-tchverkin-l5836CZDpIo-unsplash-1536x1028.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\felix-tchverkin-l5836CZDpIo-unsplash-1536x1028.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/felix-tchverkin-l5836CZDpIo-unsplash-1920x1285.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\felix-tchverkin-l5836CZDpIo-unsplash-1920x1285.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/felix-tchverkin-l5836CZDpIo-unsplash-2048x1371.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\felix-tchverkin-l5836CZDpIo-unsplash-2048x1371.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/felix-tchverkin-l5836CZDpIo-unsplash-550x368.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\felix-tchverkin-l5836CZDpIo-unsplash-550x368.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/felix-tchverkin-l5836CZDpIo-unsplash-768x514.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\felix-tchverkin-l5836CZDpIo-unsplash-768x514.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/Learning-Pyramid-2021.png
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\Learning-Pyramid-2021.png
+Content Type: image/png
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/MyJuggler-Where-Life-Balnace-begins-Header-Image-1536x1024.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\MyJuggler-Where-Life-Balnace-begins-Header-Image-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/MyJuggler-Where-Life-Balnace-begins-Header-Image-1920x1280.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\MyJuggler-Where-Life-Balnace-begins-Header-Image-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/MyJuggler-Where-Life-Balnace-begins-Header-Image-2048x1365.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\MyJuggler-Where-Life-Balnace-begins-Header-Image-2048x1365.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/MyJuggler-Where-Life-Balnace-begins-Header-Image-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\MyJuggler-Where-Life-Balnace-begins-Header-Image-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/MyJuggler-Where-Life-Balnace-begins-Header-Image-768x512.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\MyJuggler-Where-Life-Balnace-begins-Header-Image-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/03/MyJuggler-Where-Life-Balnace-begins-Header-Image-scaled.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\03\MyJuggler-Where-Life-Balnace-begins-Header-Image-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/04/fukkar-al-wathoni-2IQuhcmaUFU-unsplash-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\04\fukkar-al-wathoni-2IQuhcmaUFU-unsplash-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/04/fukkar-al-wathoni-2IQuhcmaUFU-unsplash.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\04\fukkar-al-wathoni-2IQuhcmaUFU-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/04/happiness-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\04\happiness-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/04/happiness.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\04\happiness.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/06/5CEXFLW-550x393.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\06\5CEXFLW-550x393.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/06/5CEXFLW.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\06\5CEXFLW.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/06/PC3NJ5J-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\06\PC3NJ5J-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/06/PC3NJ5J.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\06\PC3NJ5J.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/08/LaHo9Set3bI-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\08\LaHo9Set3bI-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/08/LaHo9Set3bI.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\08\LaHo9Set3bI.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/08/RKu3Aqnsw-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\08\RKu3Aqnsw-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/08/RKu3Aqnsw.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\08\RKu3Aqnsw.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/08/Youve-Got-a-Friend-A-True-Story-about-the-Power-of-Connection-550x309.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\08\Youve-Got-a-Friend-A-True-Story-about-the-Power-of-Connection-550x309.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/08/Youve-Got-a-Friend-A-True-Story-about-the-Power-of-Connection.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\08\Youve-Got-a-Friend-A-True-Story-about-the-Power-of-Connection.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/11/5-Key-Areas-to-a-Balanced-Life-Marc-firestone-Founder-of-myjuggler.com_-550x309.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\11\5-Key-Areas-to-a-Balanced-Life-Marc-firestone-Founder-of-myjuggler.com_-550x309.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/11/5-Key-Areas-to-a-Balanced-Life-Marc-firestone-Founder-of-myjuggler.com_.jpeg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\11\5-Key-Areas-to-a-Balanced-Life-Marc-firestone-Founder-of-myjuggler.com_.jpeg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/12/joshua-sortino-XMcoTHgNcQA-unsplash-1920x1282.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\12\joshua-sortino-XMcoTHgNcQA-unsplash-1920x1282.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2021/12/joshua-sortino-XMcoTHgNcQA-unsplash-550x367.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2021\12\joshua-sortino-XMcoTHgNcQA-unsplash-550x367.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2023/01/article-1-550x395.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2023\01\article-1-550x395.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/2023/01/article-1.jpg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\2023\01\article-1.jpg
+Content Type: image/jpeg
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-1040.css?ver=1728325511
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-1040.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-1058.css?ver=1728325525
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-1058.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-1061.css?ver=1728325552
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-1061.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-1064.css?ver=1728325551
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-1064.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-1067.css?ver=1728325554
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-1067.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-1070.css?ver=1728325544
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-1070.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-1091.css?ver=1728326698
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-1091.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-12.css?ver=1728325517
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-1371.css?ver=1728326253
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-1371.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-1399.css?ver=1728327574
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-1399.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-19.css?ver=1728325524
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-19.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-3.css?ver=1728326247
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-3.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-936.css?ver=1728325511
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-936.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-966.css?ver=1728325521
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-966.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-content/uploads/elementor/css/post-969.css?ver=1728327565
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-content\uploads\elementor\css\post-969.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://myjuggler.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://myjuggler.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://myjuggler.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.7.1
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://myjuggler.com/wp-json/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F12-probing-questions-to-ask-yourself%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F12-probing-questions-to-ask-yourself%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F4-traits-found-in-psychologically-healthy-individuals%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F4-traits-found-in-psychologically-healthy-individuals%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F5-simple-keys-to-helping-your-partner-feel-heard%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F5-simple-keys-to-helping-your-partner-feel-heard%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F7-words-to-overcome-your-anxiety%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F7-words-to-overcome-your-anxiety%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F9-things-happy-couples-never-ever-say-to-each-other%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2F9-things-happy-couples-never-ever-say-to-each-other%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fa-documentarian-finds-the-perfect-solution-to-happiness-what-happened-when-he-faked-his-own-death%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-82
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fa-documentarian-finds-the-perfect-solution-to-happiness-what-happened-when-he-faked-his-own-death%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-83
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fa-psychotherapist-says-parents-who-raise-confident-mentally-strong-kids-always-do-these-3-things-when-praising-their-children%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fa-psychotherapist-says-parents-who-raise-confident-mentally-strong-kids-always-do-these-3-things-when-praising-their-children%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fa-relationship-secret-of-the-happiest-couples-new-research%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-78
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fa-relationship-secret-of-the-happiest-couples-new-research%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-79
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fa-soul-ball-story%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-88
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fa-soul-ball-story%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-89
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fabout%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fabout%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fbody%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fbody%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fcareer%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fcareer%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fcommunity%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fcommunity%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fcongratulations-youre-average%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fcongratulations-youre-average%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fcontact%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fcontact%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fdangerous-assumptions%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fdangerous-assumptions%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fdate-night-secrets%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-90
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fdate-night-secrets%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-91
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fdepression-anxiety-spike-amid-outbreak-and-turbulent-times%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fdepression-anxiety-spike-amid-outbreak-and-turbulent-times%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fdont-just-spend-your-time-invest-it%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fdont-just-spend-your-time-invest-it%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fex-lehman-financial-chief-doesnt-look-back%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-84
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fex-lehman-financial-chief-doesnt-look-back%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-85
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Ffamily-friends%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Ffamily-friends%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fforget-what-you-think-happiness-is%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-86
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fforget-what-you-think-happiness-is%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-87
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fgroup-teaching-sessions%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fgroup-teaching-sessions%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fhappiness-comes-from-making-others-feel-good%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fhappiness-comes-from-making-others-feel-good%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fhow-to-be-married-by-this-time-next-year%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-80
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fhow-to-be-married-by-this-time-next-year%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-81
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fhow-to-spark-powerful-chemistry-through-simple-conversation%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fhow-to-spark-powerful-chemistry-through-simple-conversation%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fhow-to-stop-worrying-in-five-steps%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fhow-to-stop-worrying-in-five-steps%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Flaurie-santos-yale-happiness-professor-on-5-things-that-will-make-you-happier%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Flaurie-santos-yale-happiness-professor-on-5-things-that-will-make-you-happier%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fplan%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fplan%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fprivacy-policy%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fprivate-coaching%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fprivate-coaching%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fresources%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fresources%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fsoul%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fsoul%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fstarter-kit%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fstarter-kit%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fthe-learning-pyramid%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fthe-learning-pyramid%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fthree-pillars-of-permanent-happiness%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fthree-pillars-of-permanent-happiness%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2F10-ways-to-love%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2F10-ways-to-love%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2F5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2F5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2Fdesigner-gary-shikhelman-of-garydid-gives-a-shout-out-to-myjuggler%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2Fdesigner-gary-shikhelman-of-garydid-gives-a-shout-out-to-myjuggler%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2Fhow-do-you-determine-the-health-of-your-marriage%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2Fhow-do-you-determine-the-health-of-your-marriage%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2Fwatch-myjuggler-com-founder-marc-moshe-firestone-welcome-to-the-myjuggler-life-plan%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2Fwatch-myjuggler-com-founder-marc-moshe-firestone-welcome-to-the-myjuggler-life-plan%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2Fwatch-video-from-ben-moss-licensed-therapist-lcsw-los-angeles-ca%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fvideos%2Fwatch-video-from-ben-moss-licensed-therapist-lcsw-los-angeles-ca%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fwarren-buffett-says-you-can-increase-your-overall-happiness-by-making-1-simple-choice%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fwarren-buffett-says-you-can-increase-your-overall-happiness-by-making-1-simple-choice%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fwhat-drives-you%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fwhat-drives-you%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fyouve-got-a-friend-a-true-story-about-the-power-of-connection%2F
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmyjuggler.com%2Fyouve-got-a-friend-a-true-story-about-the-power-of-connection%2F&format=xml
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://myjuggler.com/wp-json/wp/v2/categories/10
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\categories\10
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/categories/11
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\categories\11
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/categories/12
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\categories\12
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/categories/15
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\categories\15
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/categories/3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/categories/8
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\categories\8
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/categories/9
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/pages/1091
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\pages\1091
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/pages/12
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/pages/1371
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\pages\1371
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/pages/19
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/pages/3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/pages/736
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\pages\736
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/pages/8
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/pages/936
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\pages\936
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/pages/966
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\pages\966
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/pages/969
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\pages\969
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1001
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1001
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1004
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1004
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1007
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1007
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1058
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1058
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1061
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1061
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1064
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1064
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1067
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1067
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1070
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1070
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1102
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1102
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1394
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1394
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1399
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1399
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1533
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1533
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1538
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1538
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/1541
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\1541
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/28
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\28
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/31
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\31
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/3338
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\3338
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/3582
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\3582
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/3587
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\3587
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/3592
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\3592
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/3595
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\3595
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/3599
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\3599
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/3607
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\3607
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/3613
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\3613
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/723
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\723
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/976
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\976
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/981
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\981
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/985
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\985
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/994
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\994
+Content Type: application/json
+
+Uri: https://myjuggler.com/wp-json/wp/v2/posts/997
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\wp-json\wp\v2\posts\997
+Content Type: application/json
+
+Uri: https://myjuggler.com/youve-got-a-friend-a-true-story-about-the-power-of-connection/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\youve-got-a-friend-a-true-story-about-the-power-of-connection\index.htm
+Content Type: text/html
+
+Uri: https://myjuggler.com/youve-got-a-friend-a-true-story-about-the-power-of-connection/feed/
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\youve-got-a-friend-a-true-story-about-the-power-of-connection\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://p.typekit.net/p.css?s=1&k=hnr3otm&ht=tk&f=2005.2007.2009.2011.15528.15529.15530.26034.26053.26056.26058.26060.26062.26063&a=1936038&app=typekit&e=css
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\p.css
+Content Type: text/css
+
+Uri: https://p.typekit.net/p.css?s=1&k=hnr3otm&ht=tk&f=2005.2007.2009.2011.15528.15529.15530.26034.26053.26056.26058.26060.26062.26063&a=1936038&app=typekit&e=css);@font-face{font-family:"museo-sans
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\p-1.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/af/027dd4/00000000000000003b9acafa/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n6&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\027dd4\00000000000000003b9acafa\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/027dd4/00000000000000003b9acafa/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n6&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\027dd4\00000000000000003b9acafa\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/027dd4/00000000000000003b9acafa/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n6&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\027dd4\00000000000000003b9acafa\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/3e64fb/00000000000000003b9b12fe/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\3e64fb\00000000000000003b9b12fe\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/3e64fb/00000000000000003b9b12fe/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\3e64fb\00000000000000003b9b12fe\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/3e64fb/00000000000000003b9b12fe/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\3e64fb\00000000000000003b9b12fe\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/46da36/00000000000000003b9acaf6/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\46da36\00000000000000003b9acaf6\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/46da36/00000000000000003b9acaf6/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\46da36\00000000000000003b9acaf6\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/46da36/00000000000000003b9acaf6/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\46da36\00000000000000003b9acaf6\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/4eabcf/00000000000000003b9b12fd/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\4eabcf\00000000000000003b9b12fd\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/4eabcf/00000000000000003b9b12fd/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\4eabcf\00000000000000003b9b12fd\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/4eabcf/00000000000000003b9b12fd/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n4&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\4eabcf\00000000000000003b9b12fd\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\620bf8\00000000000000000000e7fe\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\620bf8\00000000000000000000e7fe\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/620bf8/00000000000000000000e7fe/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\620bf8\00000000000000000000e7fe\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/6d4bb2/00000000000000003b9acafc/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\6d4bb2\00000000000000003b9acafc\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/6d4bb2/00000000000000003b9acafc/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\6d4bb2\00000000000000003b9acafc\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/6d4bb2/00000000000000003b9acafc/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\6d4bb2\00000000000000003b9acafc\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/829fc1/00000000000000003b9acaf8/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n5&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\829fc1\00000000000000003b9acaf8\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/829fc1/00000000000000003b9acaf8/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n5&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\829fc1\00000000000000003b9acaf8\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/829fc1/00000000000000003b9acaf8/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n5&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\829fc1\00000000000000003b9acaf8\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/9cf49e/00000000000000000000e807/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n9&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\9cf49e\00000000000000000000e807\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/9cf49e/00000000000000000000e807/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n9&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\9cf49e\00000000000000000000e807\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/9cf49e/00000000000000000000e807/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n9&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\9cf49e\00000000000000000000e807\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/a28b50/00000000000000000000e803/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n5&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\a28b50\00000000000000000000e803\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/a28b50/00000000000000000000e803/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n5&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\a28b50\00000000000000000000e803\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/a28b50/00000000000000000000e803/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n5&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\a28b50\00000000000000000000e803\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/a2c82e/00000000000000003b9acaf4/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\a2c82e\00000000000000003b9acaf4\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/a2c82e/00000000000000003b9acaf4/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\a2c82e\00000000000000003b9acaf4\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/a2c82e/00000000000000003b9acaf4/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n3&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\a2c82e\00000000000000003b9acaf4\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/aa5b59/00000000000000003b9acaf7/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i4&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\aa5b59\00000000000000003b9acaf7\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/aa5b59/00000000000000003b9acaf7/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i4&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\aa5b59\00000000000000003b9acaf7\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/aa5b59/00000000000000003b9acaf7/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=i4&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\aa5b59\00000000000000003b9acaf7\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/ac1071/00000000000000003b9acafe/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n8&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\ac1071\00000000000000003b9acafe\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/ac1071/00000000000000003b9acafe/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n8&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\ac1071\00000000000000003b9acafe\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/ac1071/00000000000000003b9acafe/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n8&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\ac1071\00000000000000003b9acafe\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\e3ca36\00000000000000000000e805\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\e3ca36\00000000000000000000e805\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/e3ca36/00000000000000000000e805/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\e3ca36\00000000000000000000e805\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/f3ba4f/00000000000000003b9b12fa/27/a?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\f3ba4f\00000000000000003b9b12fa\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/f3ba4f/00000000000000003b9b12fa/27/d?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\f3ba4f\00000000000000003b9b12fa\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/f3ba4f/00000000000000003b9b12fa/27/l?primer=388f68b35a7cbf1ee3543172445c23e26935269fadd3b392a13ac7b2903677eb&fvd=n7&v=3
+File Name: C:\Users\Dorfman\Desktop\Desktop\Citron\Customers\MyJuggler.com\Ripped Site\myjuggler.com\af\f3ba4f\00000000000000003b9b12fa\27\l
+Content Type: application/font-woff2
+

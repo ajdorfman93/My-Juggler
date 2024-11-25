@@ -1,0 +1,885 @@
+﻿
+<!DOCTYPE html>
+<html lang="en-US">
+<head><meta charset="UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="1.2.6",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this.t.bind(this),this.touchStartHandler=this.i.bind(this),this.touchMoveHandler=this.o.bind(this),this.touchEndHandler=this.h.bind(this),this.clickHandler=this.u.bind(this),this.interceptedClicks=[],this.interceptedClickListeners=[],this.l(this),window.addEventListener("pageshow",(t=>{this.persisted=t.persisted,this.everythingLoaded&&this.m()})),this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",(t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))})),document.addEventListener("DOMContentLoaded",(()=>{this.k()})),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}p(t){document.hidden?t.t():(this.triggerEvents.forEach((e=>window.addEventListener(e,t.userEventHandler,{passive:!0}))),window.addEventListener("touchstart",t.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",t.touchStartHandler),document.addEventListener("visibilitychange",t.userEventHandler))}_(){this.triggerEvents.forEach((t=>window.removeEventListener(t,this.userEventHandler,{passive:!0}))),document.removeEventListener("visibilitychange",this.userEventHandler)}i(t){"HTML"!==t.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),t.target.addEventListener("click",this.clickHandler),this.L(t.target,!0),this.S(t.target,"onclick","rocket-onclick"),this.C())}o(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.S(t.target,"rocket-onclick","onclick"),this.M()}h(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}u(t){t.target.removeEventListener("click",this.clickHandler),this.L(t.target,!1),this.S(t.target,"rocket-onclick","onclick"),this.interceptedClicks.push(t),t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),this.M()}O(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach((t=>{t.target.dispatchEvent(new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0}))}))}l(t){EventTarget.prototype.addEventListenerWPRocketBase=EventTarget.prototype.addEventListener,EventTarget.prototype.addEventListener=function(e,i,o){"click"!==e||t.windowLoaded||i===t.clickHandler||t.interceptedClickListeners.push({target:this,func:i,options:o}),(this||window).addEventListenerWPRocketBase(e,i,o)}}L(t,e){this.interceptedClickListeners.forEach((i=>{i.target===t&&(e?t.removeEventListener("click",i.func,i.options):t.addEventListener("click",i.func,i.options))})),t.parentNode!==document.documentElement&&this.L(t.parentNode,e)}D(){return new Promise((t=>{this.P?this.M=t:t()}))}C(){this.P=!0}M(){this.P=!1}S(t,e,i){t.hasAttribute&&t.hasAttribute(e)&&(event.target.setAttribute(i,event.target.getAttribute(e)),event.target.removeAttribute(e))}t(){this._(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this.R.bind(this)):this.R()}k(){let t=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach((e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){0===i.indexOf("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}})),t=[...new Map(t.map((t=>[JSON.stringify(t),t]))).values()],this.T(t,"preconnect")}async R(){this.lastBreath=Date.now(),this.j(this),this.F(this),this.I(),this.W(),this.q(),await this.A(this.delayedScripts.normal),await this.A(this.delayedScripts.defer),await this.A(this.delayedScripts.async);try{await this.U(),await this.H(this),await this.J()}catch(t){console.error(t)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.D().then((()=>{this.O()})),this.N()}W(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach((t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)}))}async B(t){if(await this.G(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise((e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach((t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))})),t.text&&(i.text=t.text),i.hasAttribute("src")?(i.addEventListener("load",o),i.addEventListener("error",(function(){i.setAttribute("data-rocket-status","failed-network"),e()})),setTimeout((()=>{i.isConnected||e()}),1)):(i.text=t.text,o()),t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o),t.addEventListener("error",(i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: data-uri blocked by CSP -> fallback"),t.removeAttribute("src"),this.B(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())})),s?(t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}}));t.setAttribute("data-rocket-status","skipped")}async A(t){const e=t.shift();return e&&e.isConnected?(await this.B(e),this.A(t)):Promise.resolve()}q(){this.T([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}T(t,e){var i=document.createDocumentFragment();t.forEach((t=>{const o=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(o&&!o.startsWith("data:")){const s=document.createElement("link");s.href=o,s.rel=e,"preconnect"!==e&&(s.as="script"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(s.crossOrigin=!0),t.crossOrigin&&(s.crossOrigin=t.crossOrigin),t.integrity&&(s.integrity=t.integrity),i.appendChild(s),this.trash.push(s)}})),document.head.appendChild(i)}j(t){let e={};function i(i,o){return e[o].eventsToRewrite.indexOf(i)>=0&&!t.everythingLoaded?"rocket-"+i:i}function o(t,o){!function(t){e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},eventsToRewrite:[]},t.addEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=i(arguments[0],t),e[t].originalFunctions.remove.apply(t,arguments)})}(t),e[t].eventsToRewrite.push(o)}function s(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o||function(){},set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}o(document,"DOMContentLoaded"),o(window,"DOMContentLoaded"),o(window,"load"),o(window,"pageshow"),o(document,"readystatechange"),s(document,"onreadystatechange"),s(window,"onload"),s(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}F(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map((t=>"load"===t||0===t.indexOf("load.")?"rocket-jquery-load":t)).join(" ")}function o(o){function s(t){const e=o.fn[t];o.fn[t]=o.fn.init.prototype[t]=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach((t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e}))),e.apply(this,arguments),this}}o&&o.fn&&!t.allJQueries.includes(o)&&(o.fn.ready=o.fn.init.prototype.ready=function(e){return t.domReadyFired?e.bind(document)(o):document.addEventListener("rocket-DOMContentLoaded",(()=>e.bind(document)(o))),o([])},s("on"),s("one"),t.allJQueries.push(o)),e=o}o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}async H(t){const e=document.querySelector("script[data-webpack]");e&&(await async function(){return new Promise((t=>{e.addEventListener("load",t),e.addEventListener("error",t)}))}(),await t.K(),await t.H(t))}async U(){this.domReadyFired=!0;try{document.readyState="interactive"}catch(t){}await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.G(),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}async J(){try{document.readyState="complete"}catch(t){}await this.G(),document.dispatchEvent(new Event("rocket-readystatechange")),await this.G(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.G(),window.dispatchEvent(new Event("rocket-load")),await this.G(),window.rocketonload&&window.rocketonload(),await this.G(),this.allJQueries.forEach((t=>t(window).trigger("rocket-jquery-load"))),await this.G();const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.G(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted}),this.windowLoaded=!0}m(){document.onreadystatechange&&document.onreadystatechange(),window.onload&&window.onload(),window.onpageshow&&window.onpageshow({persisted:this.persisted})}I(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript;i||console.error("WPRocket unable to document.write this: "+e);const o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async G(){Date.now()-this.lastBreath>45&&(await this.K(),this.lastBreath=Date.now())}async K(){return document.hidden?new Promise((t=>setTimeout(t))):new Promise((t=>requestAnimationFrame(t)))}N(){this.trash.forEach((t=>t.remove()))}static run(){const t=new RocketLazyLoadScripts;t.p(t)}}RocketLazyLoadScripts.run()})();</script>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="wp-content/themes/juggler/img/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="wp-content/themes/juggler/img/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="wp-content/themes/juggler/img/favicons/favicon-16x16.png">
+  <link rel="manifest" href="wp-content/themes/juggler/img/favicons/site.webmanifest">
+  <link rel="mask-icon" href="wp-content/themes/juggler/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <style>
+  .shabbat-overlay {position: fixed;width: 100%;height: 100%;top: 0;left: 0;right: 0;bottom: 0;background: #ffffff;z-index:-1;pointer-events:none}
+  .is-shabbat .shabbat-overlay{display:block;z-index: 999999999;pointer-events:all}
+  .is-shabbat .main-nav,.is-shabbat .section,.is-shabbat .main-wrap{display:none !important}
+  .headline.headline--popup {font-size: 4em; font-size: 4vw; padding-top: 0 !important; padding-bottom: 0 !important; line-height: 1; color:#2f4c61 !important;font-weight:600;text-transform:capitalize !important;}
+  .subheadline--popup {font-size: 2.4em; font-size:1.8vw; color: #f1694c; }
+  .section-info--popup{font-size:0.95em !important;text-align:left;margin-top:1em !important;}
+  .section-info--popup p{margin-bottom:0.25em}
+  .section-info--popup p:last-child{margin-bottom:0}
+  .section-info--popup a{color:#f1694c !important}
+  @media only screen and (max-width:600px){
+  .shabbat-overlay{padding:50px 15px 50px 15px;}
+  .headline.headline--popup{font-size: 3em;font-size: 9vw;margin-bottom:0.5em}
+  .subheadline--popup{font-size: 1.4em;font-size: 6vw;}
+  }
+  </style>
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'>
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v23.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>My Juggler - Where Life Balance Begins</title><link rel="preload" data-rocket-preload="" as="style" href="css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap"><link rel="stylesheet" href="css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap"></noscript>
+	<meta name="description" content="Searching for a &quot;life plan&quot; that really works? Begin here, with life repair. It&#039;s your blueprint to a joyful life.">
+	<link rel="canonical" href="index.htm">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="My Juggler - Wondering how to create a balanced life?">
+	<meta property="og:description" content="Searching for a &quot;life plan&quot; that really works? Begin here, with life repair. It&#039;s your blueprint to a joyful life.">
+	<meta property="og:url" content="https://myjuggler.com/">
+	<meta property="og:site_name" content="My Juggler">
+	<meta property="article:modified_time" content="2024-09-19T16:58:58+00:00">
+	<meta property="og:image" content="https://myjuggler.com/wp-content/uploads/2021/03/MyJuggler.jpg">
+	<meta property="og:image:width" content="800">
+	<meta property="og:image:height" content="800">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://myjuggler.com/","url":"https://myjuggler.com/","name":"My Juggler - Where Life Balance Begins","isPartOf":{"@id":"https://myjuggler.com/#website"},"primaryImageOfPage":{"@id":"https://myjuggler.com/#primaryimage"},"image":{"@id":"https://myjuggler.com/#primaryimage"},"thumbnailUrl":"https://myjuggler.com/wp-content/uploads/2021/03/MyJuggler.jpg","datePublished":"2019-02-26T10:57:18+00:00","dateModified":"2024-09-19T16:58:58+00:00","description":"Searching for a \"life plan\" that really works? Begin here, with life repair. It's your blueprint to a joyful life.","breadcrumb":{"@id":"https://myjuggler.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://myjuggler.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://myjuggler.com/#primaryimage","url":"https://myjuggler.com/wp-content/uploads/2021/03/MyJuggler.jpg","contentUrl":"https://myjuggler.com/wp-content/uploads/2021/03/MyJuggler.jpg","width":800,"height":800,"caption":"MyJuggler"},{"@type":"BreadcrumbList","@id":"https://myjuggler.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://myjuggler.com/#website","url":"https://myjuggler.com/","name":"My Juggler","description":"Where Life Balance Begins","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://myjuggler.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link href='https://fonts.gstatic.com' crossorigin="" rel='preconnect'>
+<link rel="alternate" type="application/rss+xml" title="My Juggler &raquo; Feed" href="feed/index.htm">
+<link rel="alternate" type="application/rss+xml" title="My Juggler &raquo; Comments Feed" href="comments/feed/index.htm">
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-minify="1" rel='stylesheet' id='fvp-frontend-css' href='wp-content/cache/min/1/wp-content/plugins/featured-video-plus/styles/frontend.css?ver=1728325529' type='text/css' media='all'>
+<link data-minify="1" rel='stylesheet' id='resources-css' href='wp-content/cache/min/1/wp-content/themes/juggler/css/resources.css?ver=1728325529' type='text/css' media='all'>
+<link data-minify="1" rel='stylesheet' id='style-css' href='wp-content/cache/min/1/wp-content/themes/juggler/css/style.css?ver=1728325529' type='text/css' media='all'>
+<link data-minify="1" rel='stylesheet' id='popup-maker-site-css' href='wp-content/cache/min/1/wp-content/uploads/pum/pum-site-styles.css?ver=1728325529' type='text/css' media='all'>
+<link data-minify="1" rel='stylesheet' id='video-js-css' href='wp-content/cache/min/1/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.min.css?ver=1728325529' type='text/css' media='all'>
+<link data-minify="1" rel='stylesheet' id='video-js-kg-skin-css' href='wp-content/cache/min/1/wp-content/plugins/video-embed-thumbnail-generator/video-js/kg-video-js-skin.css?ver=1728325529' type='text/css' media='all'>
+<link data-minify="1" rel='stylesheet' id='kgvid_video_styles-css' href='wp-content/cache/min/1/wp-content/plugins/video-embed-thumbnail-generator/src/public/css/videopack-styles.css?ver=1728325529' type='text/css' media='all'>
+<link data-minify="1" rel='stylesheet' id='elementor-icons-css' href='wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1728325529' type='text/css' media='all'>
+<link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.24.5' type='text/css' media='all'>
+<link data-minify="1" rel='stylesheet' id='swiper-css' href='wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=1728325529' type='text/css' media='all'>
+<link rel='stylesheet' id='e-swiper-css' href='wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.24.5' type='text/css' media='all'>
+<link rel='stylesheet' id='elementor-post-1040-css' href='wp-content/uploads/elementor/css/post-1040.css?ver=1728325511' type='text/css' media='all'>
+
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://myjuggler.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://myjuggler.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://myjuggler.com/wp-content/plugins/featured-video-plus/js/jquery.fitvids.min.js?ver=master-2015-08" id="jquery.fitvids-js" data-rocket-defer="" defer=""></script>
+<script type="text/javascript" id="fvp-frontend-js-extra">
+/* <![CDATA[ */
+var fvpdata = {"ajaxurl":"https:\/\/myjuggler.com\/wp-admin\/admin-ajax.php","nonce":"12fffc0e4b","fitvids":"1","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"640"};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://myjuggler.com/wp-content/plugins/featured-video-plus/js/frontend.min.js?ver=2.3.3" id="fvp-frontend-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://myjuggler.com/wp-content/cache/min/1/wp-content/themes/juggler/js/shabbat.js?ver=1728325494" id="shabbat-js" data-rocket-defer="" defer=""></script>
+<link rel="https://api.w.org/" href="wp-json/index.htm"><link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/736"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://myjuggler.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.1">
+<link rel='shortlink' href='index.htm'>
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmyjuggler.com%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Fmyjuggler.com%2F&#038;format=xml">
+<meta name="generator" content="Elementor 3.24.5; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+					<style type="text/css" id="wp-custom-css">
+			.headline--section-top{font-size:2.2em;margin-bottom:.5em;color:#2f4c61;text-transform:uppercase;letter-spacing:.05em}
+
+.post-excerpt{position:relative;display:block;overflow:hidden;color:#2f4c61;font-size:.9em;text-align:left;padding-top:2px;line-height:1.45;font-weight:400;font-family:europa,"Helvetica Neue",Helvetica,"Lucida Sans Unicode",Arial,sans-serif}
+.homilies-slider>div{text-transform:uppercase;color:#fff;font-size:2.4em;font-weight:600;line-height:1.15}
+
+@media screen and (max-width:500px){
+.headline--intro{font-size:2em;max-width:200px;text-align:center}
+	
+.footer{font-size:.7em;font-weight:200;text-align:left;color:#000;width:100%;line-height:.2;margin:0 auto;padding:0;padding-top:0;padding-bottom:0;background:#fff;font-family:europa;text-transform:lowercase}
+.footer__bottom{font-size:1em;padding:0;padding-top:0;color:#2f4c61;padding-top:5px;text-align:center}
+	
+.main-nav__btn{float:center;color:#fff;background:#169d81;font-size:12px;line-height:30px;height:30px;padding:0 22px;text-transform:none;letter-spacing:1px;font-weight:600;font-family:europa;width:100%}
+	
+	.main-nav__btn:hover {float:center;color:#fff;background:#2f4c61;font-size:12px;line-height:30px;height:30px;padding:0 22px;text-transform:none;letter-spacing:1px;font-weight:600;font-family:europa;width:100%}
+	
+.homilies-slider>div{text-transform:uppercase;color:#fff;font-size:2em;font-weight:600;line-height:1.15}
+	
+.field-wrap input[type=button]{border:1px solid #f1694c;color:#fff;background:#f1694c;padding:1em 6em;font-size:.9em;font-weight:500;margin:1em auto 0 auto;text-transform:uppercase;border-radius:50px!important;border-top-left-radius:50px!important;border-top-left-radius:50px!important;width:auto!important}
+.section--padded{padding:1em 0;padding-top:1em;padding-right:0;padding-bottom:1em;padding-left:0}
+.section--padded{padding:3.1em 0;padding-top:3.1em;padding-right:0;padding-bottom:.7em;padding-bottom:3.1em;padding-left:0}
+	
+.section-b .headline{color:#fff}
+.homilies-slider>div{text-transform:uppercase;color:#fff;font-size:2em;font-weight:600;line-height:1.15}
+	
+.owl-theme .owl-dots .owl-dot.active span,.owl-theme .owl-dots .owl-dot:hover span{background:#22629d;border-color:#22629d;}
+	
+.headline--section-alt{color:#fff}
+.home-block--video{margin-top:1.5em;margin-bottom:3.5em}
+.section-c .home-blocks-3{margin-top:1em}
+.headline--section-top{font-size:1.9em;margin-bottom:.5em;color:#2f4c61;text-transform:uppercase;letter-spacing:.05em}
+}		</style>
+		<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<link data-minify="1" rel="stylesheet" href="wp-content/cache/min/1/hnr3otm.css?ver=1728325529">
+<link rel='dns-prefetch' href='//s.w.org'>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="rocketlazyloadscript" async="" data-rocket-src="https://www.googletagmanager.com/gtag/js?id=G-G7VCH1NZFT"></script>
+<script type="rocketlazyloadscript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G7VCH1NZFT');
+</script>
+
+<style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style></head>
+<body class="home page-template page-template-page-home page-template-page-home-php page page-id-736 elementor-default elementor-kit-1040 elementor-page elementor-page-736">
+
+<nav>
+  <div class="main-nav main-nav--top js-main-nav">
+
+    <div class="container container--nav">
+
+      <a href="index.htm"><img class="main-logo" src="wp-content/themes/juggler/img/logo-alt.svg?v=1" alt="Juggler"></a>
+
+      <div class="nav-toggle nav-toggle--top js-nav-toggle--top">
+        <svg class="nav-toggle__icon" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewbox="0 0 612 612"><path d="M0 95.625v38.25h612v-38.25h-612zm0 229.5h612v-38.25h-612v38.25zm0 191.25h612v-38.25h-612v38.25z"></path></svg>
+      </div>
+
+      
+      <ul id="menu" class="menu"><li id="menu-item-1081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="about/index.htm">About</a></li>
+<li id="menu-item-3295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3295"><a href="plan/index.htm">Juggling</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="contact/index.htm">Contact</a></li>
+<li id="menu-item-2184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2184"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-2185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2185"><a href="resources/index.htm">Read</a></li>
+	<li id="menu-item-2183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2183"><a href="videos/index.htm">Watch</a></li>
+</ul>
+</li>
+</ul>
+    </div>
+
+  </div>
+
+  <div class="main-nav main-nav--fixed js-main-nav">
+
+    <div class="container container--nav">
+
+      <div class="nav-toggle nav-toggle--fixed js-nav-toggle--fixed">
+        <svg class="nav-toggle__icon" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewbox="0 0 612 612"><path d="M0 95.625v38.25h612v-38.25h-612zm0 229.5h612v-38.25h-612v38.25zm0 191.25h612v-38.25h-612v38.25z"></path></svg>
+        <span class="nav-toggle__text">Menu</span>
+      </div>
+
+      <a href="index.htm"><img class="main-logo" src="wp-content/themes/juggler/img/logo.svg?v=1" alt="Juggler"></a>
+
+      <a class="main-nav__btn main-nav__btn--main" href="starter-kit/index.htm">Learn to <span class="u-lowercase">'Juggle'</span></a>
+
+      <ul id="menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="about/index.htm">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3295"><a href="plan/index.htm">Juggling</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="contact/index.htm">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2184"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2185"><a href="resources/index.htm">Read</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2183"><a href="videos/index.htm">Watch</a></li>
+</ul>
+</li>
+</ul>
+    </div>
+
+  </div>
+
+</nav>
+<div class="main-wrap">
+
+  
+
+  <div id="intro" class="section section-intro">
+
+    <div class="section__bg section__bg--1 cover" style="background-image:url(wp-content/uploads/2020/11/umit-bulut-qbTC7ZwJB64-unsplash.jpg);"></div>
+    <div class="section__overlay section__overlay--l"></div>
+
+    <svg class="section__mask" enable-background="new 0 0 1440 753" viewbox="0 0 1440 753" xmlns="http://www.w3.org/2000/svg"><path d="m0 650c44 21 409.4 98.7 461 100 190 13 944.3-66.3 979-67.7.7 51.8-.9 172.6 0 224.4v6.6c-480 0-960 .1-1440 0z" fill="#ffffff"></path></svg>
+
+    <svg class="intro-shape js-a-intro-shape" enable-background="new 294 -204 1200 1200" viewbox="294 -204 1200 1200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <filter id="a">
+        <fegaussianblur height="1200" in="SourceGraphic" stddeviation="6" y="-200"></fegaussianblur>
+      </filter>
+      <g class="s-circles__circle">
+        <path d="m871.5-135.3c6.1-.9 12.4-.6 18.5-.7 10.7.1 21.5-.5 32.1 1.3 70.9 10 133.1 62.8 156.5 130.2 6.6 18.8 9.9 38.6 10 58.5 1.8 37.9-9.5 75.9-30 107.7-19.3 30.2-46.7 55.3-78.8 71.2-18.7 9.3-39 15.4-59.8 17.6-12.7 1-25.4 2.5-38.2 1.7-70-3.3-136.1-48.1-165.6-111.6-5.7-12.5-10.4-25.6-12.6-39.3-5.6-31.5-5.8-64.2 2-95.3 4.7-18.8 12.5-36.8 23.3-52.8 31.2-49 85.4-81.4 142.6-88.5z" filter="url(#a)" opacity=".1" class="s-circles__shadow"></path>
+        <path d="m871.5-155.3c6.1-.9 12.4-.6 18.5-.7 10.7.1 21.5-.5 32.1 1.3 70.9 10 133.1 62.8 156.5 130.2 6.6 18.8 9.9 38.6 10 58.5 1.8 37.9-9.5 75.9-30 107.7-19.3 30.2-46.7 55.3-78.8 71.2-18.7 9.3-39 15.4-59.8 17.6-12.7 1-25.4 2.5-38.2 1.7-70-3.3-136.1-48.1-165.6-111.6-5.7-12.5-10.4-25.6-12.6-39.3-5.6-31.5-5.8-64.2 2-95.3 4.7-18.8 12.5-36.8 23.3-52.8 31.2-49 85.4-81.4 142.6-88.5z" fill="#169d81" class="s-circles__shape"></path>
+      </g>
+      <g class="s-circles__circle">
+        <path d="m1263.3 136.3c53.6-2.2 107 20 145.1 57.3 24.8 24.2 43.2 55.2 51.1 89.1 12 45.3 6 94.8-15.2 136.5-14.4 28.9-36.6 53.7-63.1 72.1-53.4 36.7-125.5 44.5-185.4 19.6-19.7-8.3-38.3-19.3-54.3-33.6-25.4-22.3-44.7-51.3-55.8-83.2-12.5-34.9-13.7-73.4-5.2-109.4 16.7-69.1 74.1-126.8 143.5-142.9 13-2.7 26.1-5 39.3-5.5z" filter="url(#a)" opacity=".1" class="s-circles__shadow"></path>
+        <path d="m1263.3 116.3c53.6-2.2 107 20 145.1 57.3 24.8 24.2 43.2 55.2 51.1 89.1 12 45.3 6 94.8-15.2 136.5-14.4 28.9-36.6 53.7-63.1 72.1-53.4 36.7-125.5 44.5-185.4 19.6-19.7-8.3-38.3-19.3-54.3-33.6-25.4-22.3-44.7-51.3-55.8-83.2-12.5-34.9-13.7-73.4-5.2-109.4 16.7-69.1 74.1-126.8 143.5-142.9 13-2.7 26.1-5 39.3-5.5z" fill="#e2b838" class="s-circles__shape"></path>
+      </g>
+      <g class="s-circles__circle">
+        <path d="m493.5 137.9c58.7-7.2 120.2 13.8 161.8 55.9 28 27.7 46.7 64.4 53.7 103.2 6.8 37.2 2.2 76.5-13 111.1-15.6 35.6-41.8 66.5-74.7 87.3-28.8 18.1-62.3 28.6-96.3 29.8-43.1 1.7-87-10.7-122-36.2-41.6-29-69.9-75.4-78.6-125.1-5.5-30.9-2.9-63 6.5-92.9 21.2-65.5 79.3-118 147.2-130.7 5.1-.9 10.2-1.8 15.4-2.4z" filter="url(#a)" opacity=".1" class="s-circles__shadow"></path>
+        <path d="m493.5 117.9c58.7-7.2 120.2 13.8 161.8 55.9 28 27.7 46.7 64.4 53.7 103.2 6.8 37.2 2.2 76.5-13 111.1-15.6 35.6-41.8 66.5-74.7 87.3-28.8 18.1-62.3 28.6-96.3 29.8-43.1 1.7-87-10.7-122-36.2-41.6-29-69.9-75.4-78.6-125.1-5.5-30.9-2.9-63 6.5-92.9 21.2-65.5 79.3-118 147.2-130.7 5.1-.9 10.2-1.8 15.4-2.4z" fill="#82519c" class="s-circles__shape"></path>
+      </g>
+      <g class="s-circles__circle">
+        <path d="m640.5 578.8c38.8-4 78.8 3.9 113.2 22.4 26.6 14.4 50 34.9 67.2 59.8 20 28.8 32.3 63 34.6 98.1 1.4 24-1.1 48.3-8.4 71.2-11.4 36-33.3 68.5-62.5 92.4-28.9 23.7-64.7 38.9-101.8 42.8-40.7 4.5-82.8-3.6-118.5-23.8-17.8-10.2-34.2-22.9-47.9-38.1-30.8-33.8-49.3-78.7-50.9-124.5-1-35 6.9-70.6 24.4-101.1 19.3-34.2 48.9-62.5 84-80 20.8-10.6 43.6-16.7 66.6-19.2z" filter="url(#a)" opacity=".1" class="s-circles__shadow"></path>
+        <path d="m640.5 558.8c38.8-4 78.8 3.9 113.2 22.4 26.6 14.4 50 34.9 67.2 59.8 20 28.8 32.3 63 34.6 98.1 1.4 24-1.1 48.3-8.4 71.2-11.4 36-33.3 68.5-62.5 92.4-28.9 23.7-64.7 38.9-101.8 42.8-40.7 4.5-82.8-3.6-118.5-23.8-17.8-10.2-34.2-22.9-47.9-38.1-30.8-33.8-49.3-78.7-50.9-124.5-1-35 6.9-70.6 24.4-101.1 19.3-34.2 48.9-62.5 84-80 20.8-10.6 43.6-16.7 66.6-19.2z" fill="#f1694c" class="s-circles__shape"></path>
+      </g>
+      <g class="s-circles__circle">
+        <path d="m1106.5 578.8c43.7-4.5 88.6 6.4 125.6 30 28.6 18.2 52.3 44.1 67.7 74.3 17.2 33.3 24.8 71.7 20.8 109-3.8 39.2-20.3 76.9-45.9 106.7-20.9 24.7-48.4 43.6-78.6 55.2-40.7 15.5-86.6 16.6-128.2 3.8-32.6-10.2-62.8-28.9-85.7-54.2-24.5-26.9-41.3-60.7-48-96.4-4.6-24.1-4-49.1.5-73.2 11.1-57 49.9-107.2 101.1-134.2 21.9-11.7 46.2-18.5 70.7-21z" filter="url(#a)" opacity=".1" class="s-circles__shadow"></path>
+        <path d="m1106.5 558.8c43.7-4.5 88.6 6.4 125.6 30 28.6 18.2 52.3 44.1 67.7 74.3 17.2 33.3 24.8 71.7 20.8 109-3.8 39.2-20.3 76.9-45.9 106.7-20.9 24.7-48.4 43.6-78.6 55.2-40.7 15.5-86.6 16.6-128.2 3.8-32.6-10.2-62.8-28.9-85.7-54.2-24.5-26.9-41.3-60.7-48-96.4-4.6-24.1-4-49.1.5-73.2 11.1-57 49.9-107.2 101.1-134.2 21.9-11.7 46.2-18.5 70.7-21z" fill="#15629d" class="s-circles__shape"></path>
+      </g>
+    </svg>
+
+    <div class="table-wrap">
+      <div class="cell-wrap">
+
+        <div class="container text-center">
+
+          <div class="col-md-12">
+
+            <h1 style="display:none !important">Juggler</h1>
+            <h2 class="headline headline--intro">Where<br> Life Balance<br> begins. </h2>
+            <a class="btn btn-1 btn-1a btn--section btn--intro" href="plan/index.htm" role="button">Explore</a>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+
+  <div id="powerful-living" class="section section--padded section-0">
+
+    <div class="container">
+      <div class="row flex flex--v-center flex--reverse-row-desktop">
+
+        <div class="col-md-6 col--info">
+                      <h2 class="headline headline--section headline--section-top">WHAT IS JUGGLER?</h2>
+                                <h3 class="headline headline--section"> </h3>
+                                <div class="section-info section-info--block"><p>Juggler is a plan for joyful living. It's fast and simple. Anyone can learn it in 5 minutes. It balances the 5 most important areas in life, the '5 balls' — Body. Soul. Family/Friends. Career. Community. All you need is a sincere desire for change. Start juggling now. And create a life of joy.</p>
+</div>
+                            </div>
+
+        <div class="col-md-6">
+          <div class="home-block home-block--parallax">
+            <div class="home-block__bg home-block__bg-1 cover" style="background-image:url(wp-content/uploads/2021/03/MyJuggler-Where-Life-Balnace-begins-Header-Image-scaled.jpg);"></div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+
+  <div id="quote" class="section section--alt section--padded">
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-12 text-center">
+                      <h3 class="headline headline--section headline--section-alt text-center">WHAT CAN JUGGLER<br>DO FOR YOU?</h3>
+                              </div>
+
+      </div>
+    </div>
+
+  </div>
+
+
+  <div id="our-mission" class="section section--padded section-a">
+
+    <div class="container">
+      <div class="row flex flex--v-center">
+
+        <div class="col-md-6 col--info">
+          <h2 class="headline headline--section headline--section-top"></h2>
+          <h3 class="headline headline--section">Ever feel something's missing?</h3>
+          <div class="section-info section-info--block"><p>It could happen for several reasons: maybe you've never seen any role models living joyful lives. Or you've gotten busy, too focused on your job, or dating, or finishing school, or pleasing your parents, or performing, or traveling, or escaping. </p>
+<p>Sometimes you concentrate so hard on one part of life that you’re unable to find your bigger purpose. </p>
+<p>Make that dizzying ride stop now, here. Create balance and get an abundance of happiness.</p>
+<p></p>
+</div>
+          <a class="btn btn-1 btn-1a btn--section" href="about/index.htm" role="button">Discover</a>
+        </div>
+
+        <div class="col-md-6">
+          <div class="home-block home-block--parallax">
+            <div class="home-block__bg home-block__bg-1 cover" style="background-image:url(wp-content/uploads/2020/11/block-11.jpg);"></div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+
+  <div id="homilies" class="section section--alt section--padded js-section-homilies">
+
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-12 text-center">
+                                  <div class="homilies-slider js-homilies-slider"><div>"Growing every day...that's living!"  </div>
+</div>
+                  </div>
+
+      </div>
+    </div>
+
+  </div>
+
+
+  <div id="life-areas" class="section section--padded section-c">
+
+
+    <div class="container">
+
+      <div class="row section-c__top">
+
+        <div class="col-md-6">
+
+          <h2 class="headline headline--section headline--section-top"></h2>
+          <h3 class="headline headline--section text-right"></h3>
+
+        </div>
+
+      </div>
+
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+          <div class="home-blocks-3">
+
+            <div class="home-block home-block-c-1">
+              <div class="home-block__bg home-block__bg-2 cover" style="background-image:url(wp-content/uploads/2018/09/block-3.jpg);"></div>
+              <a href="soul/index.htm">
+                <div class="home-block__inner">
+                  <h4 class="headline headline--block">Soul</h4>
+                  <span class="home-block__action">Learn More</span>
+                </div>
+              </a>
+            </div>
+
+            <div class="home-block home-block-c-2">
+              <div class="home-block__bg home-block__bg-5 cover" style="background-image:url(wp-content/uploads/2019/02/block-002.jpg);"></div>
+              <a href="family-friends/index.htm">
+                <div class="home-block__inner">
+                  <h4 class="headline headline--block">Family & Friends</h4>
+                  <span class="home-block__action">Learn More</span>
+                </div>
+              </a>
+            </div>
+
+            <div class="home-block home-block-c-3">
+              <div class="home-block__bg home-block__bg-4 cover" style="background-image:url(wp-content/uploads/2019/02/block-4.jpg);"></div>
+              <a href="career/index.htm">
+                <div class="home-block__inner">
+                  <h4 class="headline headline--block">Career</h4>
+                  <span class="home-block__action">Learn More</span>
+                </div>
+              </a>
+            </div>
+
+            <div class="home-block home-block-c-4">
+              <div class="home-block__bg home-block__bg-3 cover" style="background-image:url(wp-content/uploads/2019/02/block-003.jpg);"></div>
+              <a href="body/index.htm">
+                <div class="home-block__inner">
+                  <h4 class="headline headline--block">Body</h4>
+                  <span class="home-block__action">Learn More</span>
+                </div>
+              </a>
+            </div>
+
+            <div class="home-block home-block-c-5">
+              <div class="home-block__bg home-block__bg-6 cover" style="background-image:url(wp-content/uploads/2019/02/block-5.jpg);"></div>
+              <a href="community/index.htm">
+                <div class="home-block__inner">
+                  <h4 class="headline headline--block">Community</h4>
+                  <span class="home-block__action">Learn More</span>
+                </div>
+              </a>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+
+  <div data-wpr-lazyrender="1" id="featured-articles" class="section section--padded section-b section--home-articles">
+
+    <svg class="section__mask section__mask--top" enable-background="new 0 0 1440 753" viewbox="0 0 1440 753" xmlns="http://www.w3.org/2000/svg"><path d="m1440.2 128c-44-21-409.4-98.7-461-100-190-13-944.3 66.3-979 67.7-.7-51.8.9-172.6 0-224.4v-6.6c480 0 960-.1 1440 0z" fill="#ffffff"></path></svg>
+
+    <svg class="section__mask" enable-background="new 0 0 1440 753" viewbox="0 0 1440 753" xmlns="http://www.w3.org/2000/svg"><path d="m0 650c44 21 409.4 98.7 461 100 190 13 944.3-66.3 979-67.7.7 51.8-.9 172.6 0 224.4v6.6c-480 0-960 .1-1440 0z" fill="#ffffff"></path></svg>
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+          <h2 class="headline headline--section headline--section-top text-center">Featured Articles</h2>
+          <h3 class="headline headline--section"></h3>
+
+        </div>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-12 home-posts-wrap">
+
+          <ul class="posts-wrap posts-wrap--grid">
+
+            
+            <li class="post-area post-area--grid">
+  <div class="post-area__inside">
+    <a href="dont-just-spend-your-time-invest-it/index.htm">
+      <div class="featured-wrap featured-wrap--overlay"><div class="featured-image cover" style="background:url(wp-content/uploads/2023/01/article-1-550x395.jpg) no-repeat;"></div></div>    </a>
+    <div class="inner-post-wrap inner-post-wrap--grid">
+      <span class="post-title"><a href="dont-just-spend-your-time-invest-it/index.htm">Don’t Just Spend Your Time—Invest It</a></span>
+      <div class="post-excerpt"><p>Time, like money, can be allocated to build wealth, meaning and happiness in the years to come When it comes to time, we are born rich and then spend down our fortunes over the years. It may not grow like  <a class="icon none" href="https://www.wsj.com/articles/six-ways-to-protect-your-money-in-2023-11671791429?mod=article_inline" target="_blank" rel="noopener">money in a bank account</a> &#8230;</p>
+<a class="read-more" href="dont-just-spend-your-time-invest-it/index.htm">Continue reading</a></div>
+    </div>
+  </div>
+</li>
+          
+        </ul>
+
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+
+<div data-wpr-lazyrender="1" id="read" class="section section--padded section-e">
+
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-md-12 text-center">
+        <h2 class="headline headline--section headline--section-top text-center">NOW FOR THE ULTIMATE PAY-OFF...</h2>
+        <h3 class="headline headline--section text-center"></h3>
+      </div>
+
+    </div>
+
+    <div class="row">
+
+      <div class="col-md-12 home-posts-wrap">
+<p>After using the Juggler plan for a bit you will feel more joy and be in better balance. You’ll have time to ask yourself THE most important question a human being can ask:</p>
+
+          <p><center><b><font size="6" color="#f1694c">“What am I living for?”</font></b></center></p>
+
+<p>Judaism teaches that the goal of one’s life is to develop a strong and intimate relationship with God.
+This is the only 'fail-safe' relationship in our lives.
+All other relationships will disappoint us at one point, given that humanity is imperfect and all of us are ultimately mortal.</p>
+<br>
+<p>Developing a relationship with God is our greatest personal accomplishment. We do this by following God’s 'Instruction Manual for Life' — aka, the Torah (the first five books of the Bible). Another answer/hint: Also see the <a href="soul/index.htm">Soul Ball.</a> Read the classic Jewish book, <i>Path of the Just</i> by Rabbi Moshe Chaim Luzatto. Chapter one, page one.</p>
+
+    </div>
+
+  </div>
+
+</div>
+
+</div>
+
+  <div data-wpr-lazyrender="1" id="watch" class="section section--padded section-b">
+
+    <svg class="section__mask section__mask--top" enable-background="new 0 0 1440 753" viewbox="0 0 1440 753" xmlns="http://www.w3.org/2000/svg"><path d="m1440.2 128c-44-21-409.4-98.7-461-100-190-13-944.3 66.3-979 67.7-.7-51.8.9-172.6 0-224.4v-6.6c480 0 960-.1 1440 0z" fill="#ffffff"></path></svg>
+
+    <svg class="section__mask" enable-background="new 0 0 1440 753" viewbox="0 0 1440 753" xmlns="http://www.w3.org/2000/svg"><path d="m0 650c44 21 409.4 98.7 461 100 190 13 944.3-66.3 979-67.7.7 51.8-.9 172.6 0 224.4v6.6c-480 0-960 .1-1440 0z" fill="#ffffff"></path></svg>
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+          <h2 class="headline headline--section headline--section-top text-center">Watch</h2>
+          <h3 class="headline headline--section"></h3>
+
+        </div>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+          <ul class="home-blocks home-blocks-2 js-media-gallery">
+
+            
+            
+
+        <div class="home-block home-block--video home-block--parallax" data-src="https://www.youtube.com/watch?v=-q0Uk5s252s">
+
+        
+        <a href="videos/5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com/index.htm">
+            <div class="bg-block cover" style="background:url(wp-content/uploads/2021/11/5-Key-Areas-to-a-Balanced-Life-Marc-firestone-Founder-of-myjuggler.com_-550x309.jpeg) no-repeat;"></div>        </a>
+        <div class="home-block__inner">
+            <div class="col-xs-6">
+                <h4 class="home-block__title">5 Key Areas to a Balanced Life | Marc Firestone | Founder of myjuggler.com</h4>
+                <p class="home-block__info"></p>
+            </div>
+            <div class="home-block__play"><i class="ion-play"></i></div>
+        </div>
+    </div>
+          
+            
+
+        <div class="home-block home-block--video home-block--parallax" data-src="https://youtu.be/SBwyzILEoec">
+
+        
+        <a href="videos/designer-gary-shikhelman-of-garydid-gives-a-shout-out-to-myjuggler/index.htm">
+            <div class="bg-block cover" style="background:url(wp-content/uploads/2020/10/gary-did-juggler-shout-out-550x309.jpg) no-repeat;"></div>        </a>
+        <div class="home-block__inner">
+            <div class="col-xs-6">
+                <h4 class="home-block__title">Designer Gary Shikhelman</h4>
+                <p class="home-block__info"></p>
+            </div>
+            <div class="home-block__play"><i class="ion-play"></i></div>
+        </div>
+    </div>
+          
+        </ul>
+
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<div data-wpr-lazyrender="1" id="testimonials" class="section section-i section--padded js-section-testimonials">
+
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-md-12">
+
+        <h2 class="headline headline--section text-center">What people say</h2>
+
+        <div class='o-testimonials owl-carousel m-t-2 js-o-testimonials-slider a-animation a-fade-in-2'>
+            
+            <div class="o-testimonial table-wrap">
+              <div class="cell-wrap">
+                <p class="o-testimonial__text">“The Juggler plan gave me such great advice — like how to set aside 5 minutes a day for my soul... Really helped me...”</p>
+                <div class="o-testimonial__author">A.M., Los Angeles, California, USA</div>
+              </div>
+            </div>
+
+            
+            
+            <div class="o-testimonial table-wrap">
+              <div class="cell-wrap">
+                <p class="o-testimonial__text">“I use the Juggler to get my head back on and heal my moods. It’s so easy to learn — I just get it.”</p>
+                <div class="o-testimonial__author">M.T., Manhattan Beach, California, USA</div>
+              </div>
+            </div>
+
+            
+            
+            <div class="o-testimonial table-wrap">
+              <div class="cell-wrap">
+                <p class="o-testimonial__text">“...I totally love it. Brilliant. It would have been helpful to have the Juggler plan 20 years ago...”</p>
+                <div class="o-testimonial__author">S.G., Encino, California, USA</div>
+              </div>
+            </div>
+
+            </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+</div>
+
+  <div data-wpr-lazyrender="1" id="juggler-coaching-classes" class="section section--padded section-cta" style="display:none">
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-12 text-center">
+        </div>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-12 text-center">
+
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+<div data-wpr-lazyrender="1" id="subscribe" class="section section--padded section-d">
+
+  <div class="section__bg section__bg--4 cover"></div>
+  <div class="section__overlay section__overlay--l"></div>
+
+  <div class="container">
+
+    <div class="row">
+
+    <div class="col-md-12 over-block">
+
+        <h2 class="headline headline--section headline--section-top text-center">Subscribe</h2>
+        <h3 class="headline headline--section text-center">Become part of our Forum.<br>Find new ideas and ways to balance your “life/time.”</h3>
+		    <h4 class="text-center"><span style="color:#ffffff;">Get your starter card by signing up today!</span></h4>
+
+        <div id="mc_embed_signup">
+
+          <form action="https://myjuggler.us1.list-manage.com/subscribe/post?u=de2d60c9a7cf6278319bc2bf3&amp;id=08c4ee31b4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate subsribe-form" target="_blank" novalidate="">
+
+            <input type="text" value="" name="FNAME" id="mce-FNAME" placeholder="First Name" class="subsribe-form__input">
+            <input type="text" value="" name="LNAME" id="mce-LNAME" placeholder="Last Name" class="subsribe-form__input">
+            <input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="Email" class="required email subsribe-form__input">
+            <input type="text" name="MMERGE6" value="" id="mce-MMERGE6" placeholder="Phone" class="subsribe-form__input">
+			  <input type="Address" value="" name="ADDRESS" id="mce-ADDRESS" placeholder="Address" class="subsribe-form__input">
+
+            <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_de2d60c9a7cf6278319bc2bf3_08c4ee31b4" tabindex="-1" value=""></div>
+
+            <input type="submit" value="Join" name="Subscribe" id="mc-embedded-subscribe" class="button submit subsribe-form__submit">
+
+          </form>
+
+        </div>
+        <script type="rocketlazyloadscript" data-minify="1" data-rocket-type='text/javascript' data-rocket-src='https://myjuggler.com/wp-content/cache/min/1/downloads.mailchimp.com/js/mc-validate.js?ver=1728325495' data-rocket-defer="" defer=""></script><script type="rocketlazyloadscript" data-rocket-type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+        <!--End mc_embed_signup-->
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+<div data-wpr-lazyrender="1" class="footer section">
+
+<div class="container">
+
+<div class="row footer__top">
+
+<div class="row">
+
+<div class="col-md-12 footer__bottom">
+
+
+<span>© <a class="footer-link" href="index.htm">MyJuggler.com</a> / Juggler • All rights reserved</span><span> • <a class="footer-link" href="privacy-policy/index.htm">Privacy Policy</a></span><span> • Juggler crafted by: <a class="footer-link" href="https://bancsmedia.com">Bancs Media</a><span> • Site design: <a class="footer-link" href="https://thecoupmarketing.com">The Coup</a></span>
+
+</span></div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-wpr-lazyrender="1" id="fb-root"></div>
+
+<div id="pum-1338" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-1138 pum-theme-default-theme popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:1338,&quot;slug&quot;:&quot;shabbat-mode&quot;,&quot;theme_id&quot;:1138,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;large&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-1338" class="pum-container popmake theme-1138 pum-responsive pum-responsive-large responsive size-large">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<h2 class="headline headline--popup">Shabbat Shalom!</h2>
+<p>&nbsp;</p>
+<p class="subheadline subheadline--popup text-center"><strong>We’re re-charging for 25 hours now — it’s Shabbos! </strong></p>
+<p>&nbsp;</p>
+<p class="subheadline subheadline--popup text-center"> <em>{…so we can juggle even better next week…}</em></p>
+<div class="section-info section-info--popup">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Since the world began…</p>
+<p>&nbsp;</p>
+<p>The Holy Sabbath has created an incredible calm and peace, an oasis to counter the stress of our tumultuous planet.</p>
+<p>&nbsp;</p>
+<p>It begins each week at sundown on Friday and ends on Saturday night.</p>
+<p>&nbsp;</p>
+<p>It’s a day to try to forgo our work-oriented weekday concerns and return to what’s most important: love, our families, our neighbors, our inner selves. To reflect on our lives right now, this very day.</p>
+<p>&nbsp;</p>
+<p>One day, each and every week that we’re alive together, we offer this day as a recognition of our promise and as our thank-you to Hashem for creating us.</p>
+<p>&nbsp;</p>
+<p>Therefore, in order to help create a peaceful Sabbath environment, Jewish people don’t touch any electrical devices. They take leisurely walks, visit, revel in talking live and in-person with family, eat special foods and refrain from certain other weekday activities. Most stay close to their homes to be with loved ones, neighbors and friends.</p>
+<p>&nbsp;</p>
+<p>So…</p>
+<p>&nbsp;</p>
+<p>Each week, this website will observe Shabbos, too, and will automatically go into Shabbat Mode for 25 hours during the Sabbath. We will not be available to reply to any inquiries until post-Shabbos. We, and the site&#8217;s full functionality, will become available again after nightfall each Saturday evening.</p>
+<p>&nbsp;</p>
+<p>If you would like to better understand what joy Shabbos can bring to your life, go to <a href="https://www.aish.com/shabbat/" target="_blank" rel="noopener noreferrer">aish.com/shabbat</a> or <a href="https://chabad.org/shabbos" target="_blank" rel="noopener noreferrer">chabad.org/shabbos</a>.</p>
+<p>&nbsp;</p>
+</div>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			CLOSE			</button>
+		
+	</div>
+
+</div>
+<div id="pum-1146" role="dialog" aria-modal="false" class="pum pum-overlay pum-theme-1138 pum-theme-default-theme popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:1146,&quot;slug&quot;:&quot;coaching-classes-popup&quot;,&quot;theme_id&quot;:1138,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;.js-coaching-classes-popup&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;600px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}">
+
+	<div id="popmake-1146" class="pum-container popmake theme-1138 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+				
+		
+				<div class="pum-content popmake-content" tabindex="0">
+			<h3 class="headline headline--section headline--section-alt headline--section-text-shadow text-center">Juggler. Plan for powerful living.</h3>
+<div class="row">
+<div class="col-md-12 text-center">
+<a class="btn btn-1 btn-1a btn--section" href="private-coaching/index.htm" role="button">Personal Juggler Coaching</a><br>
+<a class="btn btn-1 btn-1a btn--section" href="group-teaching-sessions/index.htm" role="button">Juggler Classes</a>
+</div>
+</div>
+		</div>
+
+				
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			CLOSE			</button>
+		
+	</div>
+
+</div>
+			<script type="rocketlazyloadscript" data-rocket-type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://myjuggler.com/wp-content/cache/min/1/wp-content/themes/juggler/js/main.js?ver=1728325495" id="main-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://myjuggler.com/wp-content/cache/min/1/wp-content/themes/juggler/js/scripts.js?ver=1728325495" id="scripts-js" data-rocket-defer="" defer=""></script>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://myjuggler.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js" data-rocket-defer="" defer=""></script>
+<script type="text/javascript" id="popup-maker-site-js-extra">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.20.2","pm_dir_url":"https:\/\/myjuggler.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/myjuggler.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/myjuggler.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"1138","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"cookie_domain":"","analytics_route":"analytics","analytics_api":"https:\/\/myjuggler.com\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/myjuggler.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-1338":{"triggers":[],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"1138","size":"large","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"default-theme","id":1338,"slug":"shabbat-mode"},"pum-1146":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":".js-coaching-classes-popup"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"1138","size":"medium","responsive_min_width":"0%","responsive_max_width":"600px","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"default-theme","id":1146,"slug":"coaching-classes-popup"}};
+/* ]]> */
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://myjuggler.com/wp-content/cache/min/1/wp-content/uploads/pum/pum-site-scripts.js?ver=1728325495" id="popup-maker-site-js" data-rocket-defer="" defer=""></script>
+
+<div data-wpr-lazyrender="1" id="shabbat-overlay" class="shabbat-overlay js-shabbat-overlay" style="display:none">
+
+<div class="table-wrap">
+  <div class="cell-wrap">
+
+    <div class="container text-center">
+
+      <div class="col-md-12">
+
+        
+        <h2 class="headline headline--popup"></h2>
+        <p class="subheadline subheadline--popup"></p>
+        <div class="section-info section-info--popup"></div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+</div>
+
+<script>var rocket_beacon_data = {"ajax_url":"https:\/\/myjuggler.com\/wp-admin\/admin-ajax.php","nonce":"66ef9ced38","url":"https:\/\/myjuggler.com","is_mobile":false,"width_threshold":1600,"height_threshold":700,"delay":500,"debug":null,"status":{"atf":true,"lrc":true},"elements":"img, video, picture, p, main, div, li, svg, section, header, span","lrc_threshold":1800}</script><script data-name="wpr-wpr-beacon" src='wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async=""></script><script>class RocketElementorAnimation{constructor(){this.deviceMode=document.createElement("span"),this.deviceMode.id="elementor-device-mode-wpr",this.deviceMode.setAttribute("class","elementor-screen-only"),document.body.appendChild(this.deviceMode)}_detectAnimations(){let t=getComputedStyle(this.deviceMode,":after").content.replace(/"/g,"");this.animationSettingKeys=this._listAnimationSettingsKeys(t),document.querySelectorAll(".elementor-invisible[data-settings]").forEach(t=>{const e=t.getBoundingClientRect();if(e.bottom>=0&&e.top<=window.innerHeight)try{this._animateElement(t)}catch(t){}})}_animateElement(t){const e=JSON.parse(t.dataset.settings),i=e._animation_delay||e.animation_delay||0,n=e[this.animationSettingKeys.find(t=>e[t])];if("none"===n)return void t.classList.remove("elementor-invisible");t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let s=setTimeout(()=>{t.classList.remove("elementor-invisible"),t.classList.add("animated",n),this._removeAnimationSettings(t,e)},i);window.addEventListener("rocket-startLoading",function(){clearTimeout(s)})}_listAnimationSettingsKeys(t="mobile"){const e=[""];switch(t){case"mobile":e.unshift("_mobile");case"tablet":e.unshift("_tablet");case"desktop":e.unshift("_desktop")}const i=[];return["animation","_animation"].forEach(t=>{e.forEach(e=>{i.push(t+e)})}),i}_removeAnimationSettings(t,e){this._listAnimationSettingsKeys().forEach(t=>delete e[t]),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorAnimation;requestAnimationFrame(t._detectAnimations.bind(t))}}document.addEventListener("DOMContentLoaded",RocketElementorAnimation.run);</script></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1732522141 -->
