@@ -9,13 +9,19 @@ transform: rotate(calc(360deg/5 * var(--i)));
 /* Typography */
 body {
   background: #fff;
+}#navbar {
+  position: sticky;
+  top: 0;
+  overflow: visible;
+  z-index: 99999;
+  background-color: #fff;
 }
+
 p {
   color: #fff;
   font-size: 0.85rem;
   line-height: 1.6rem;
 }
-
 f {
   color: #304c61;
   font-size: 0.85rem;
@@ -308,6 +314,7 @@ td {border-right:1px solid #fff;}
 .primary-color-white .background-primary-hightlight .aside-nav > ul > li.active-item > a:link, .primary-color-white .background-primary-hightlight .aside-nav > ul > li.active-item > a:visited {
   background: #fff none repeat scroll 0 0;
   color: #f2684c;
+  z-index: 99999;
 }
 .background-orange-hightlight .top-nav .active-item > a, .background-orange-hightlight .top-nav li a:hover, .background-orange-hightlight .aside-nav li a:hover, 
 .background-orange-hightlight .aside-nav > ul > li.active-item > a:link, .background-orange-hightlight .aside-nav > ul > li.active-item > a:visited,
@@ -1470,7 +1477,8 @@ nav {
   margin: 0 0;
   width: 203px;
   position: relative;
-  padding-top: 3px !important
+  padding-top: 3px !important;
+  margin-left: 15px;
 }
 .top-nav li {
   padding: 1.5rem 0;
@@ -1762,4 +1770,11 @@ textarea.form-control {
     background-image: url('../img/Two hands juggling Background 700w.jpg') !important;
 	  background-position: bottom right
   }
+}
+.main-wrap{
+  padding-top: 0;
+}
+.header-content__bg {
+  background-position-y: 0% !important;
+  top: 0px;
 }
