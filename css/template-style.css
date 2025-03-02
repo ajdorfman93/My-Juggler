@@ -355,7 +355,21 @@ td {border-right:1px solid #fff;}
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0!important;
   border: 0;
 }
+.video-container {
+  width: 100%;
+  height: 350px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black; /* Optional: To handle any blank spaces */
+}
 
+.video-container video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the video fills the container while maintaining aspect ratio */
+}
 video {
   display: block;
 } 
