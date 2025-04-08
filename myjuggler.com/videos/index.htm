@@ -247,21 +247,46 @@ var fvpdata = {"ajaxurl":"https:\/\/myjuggler.com\/wp-admin\/admin-ajax.php","no
         <ul class="home-blocks home-blocks-2 js-media-gallery">
 
           
-          
+          <style>
+.home-block__overlay{
+  position:absolute;
+  inset:0;
+  z-index:5;          /* anything lower than the play button */
+  background:transparent;
+}
 
-        <div class="home-block home-block--video home-block--parallax" data-src="https://www.youtube.com/watch?v=-q0Uk5s252s">
+.home-block__play{
+  z-index:10;         /* higher than the overlay → now on top   */
+  cursor:pointer;     /* hand cursor even if you keep it a <div>*/
+}
+</style>
 
-        
-        <a href="5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com/index.htm">
-            <div class="bg-block cover" style="background:url(../wp-content/uploads/2021/11/5-Key-Areas-to-a-Balanced-Life-Marc-firestone-Founder-of-myjuggler.com_-550x309.jpeg) no-repeat;"></div>        </a>
-        <div class="home-block__inner">
-            <div class="col-xs-6">
-                <h4 class="home-block__title">5 Key Areas to a Balanced Life | Marc Firestone | Founder of myjuggler.com</h4>
-                <p class="home-block__info"></p>
-            </div>
-            <div class="home-block__play"><i class="ion-play"></i></div>
-        </div>
+<li>
+  <div class="home-block home-block--video home-block--parallax"
+       data-src="https://www.youtube.com/watch?v=-q0Uk5s252s">
+
+    <!-- 👇  NEW: the invisible, full‑size link  -->
+    <a class="home-block__overlay"
+       href="5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com/index.htm"
+       aria-label="5 Key Areas to a Balanced Life"></a>
+
+    <!-- everything you already had stays exactly the same -->
+    <div class="bg-block cover"
+         style="background:url(../wp-content/uploads/2021/11/5-Key-Areas-to-a-Balanced-Life-Marc-firestone-Founder-of-myjuggler.com_-550x309.jpeg) no-repeat;"></div>
+
+    <div class="home-block__inner">
+      <div class="col-xs-6">
+        <h4 class="home-block__title" onclick="window.location='5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com/index.htm'">
+          5 Key Areas to a Balanced Life&nbsp;| Marc Firestone&nbsp;| Founder of myjuggler.com
+        </h4>
+        <p class="home-block__info"></p>
+      </div>
+      <div class="home-block__play"><i class="ion-play" onclick="window.location='5-key-areas-to-a-balanced-life-marc-firestone-founder-of-myjuggler-com/index.htm'"></i></div>
     </div>
+  </div>
+</li>
+
+
         
           
 
@@ -272,10 +297,10 @@ var fvpdata = {"ajaxurl":"https:\/\/myjuggler.com\/wp-admin\/admin-ajax.php","no
             <div class="bg-block cover" style="background:url(../wp-content/uploads/2020/10/gary-did-juggler-shout-out-550x309.jpg) no-repeat;"></div>        </a>
         <div class="home-block__inner">
             <div class="col-xs-6">
-                <h4 class="home-block__title">Designer Gary Shikhelman</h4>
+                <h4 class="home-block__title" onclick="window.location='designer-gary-shikhelman-of-garydid-gives-a-shout-out-to-myjuggler/index.htm'">Designer Gary Shikhelman</h4>
                 <p class="home-block__info"></p>
             </div>
-            <div class="home-block__play"><i class="ion-play"></i></div>
+            <div class="home-block__play" onclick="window.location='designer-gary-shikhelman-of-garydid-gives-a-shout-out-to-myjuggler/index.htm'"><i class="ion-play"></i></div>
         </div>
     </div>
         
@@ -294,10 +319,10 @@ var fvpdata = {"ajaxurl":"https:\/\/myjuggler.com\/wp-admin\/admin-ajax.php","no
             <div class="bg-block cover" style="background:url(../wp-content/uploads/2020/11/20201129145053_thumb2-550x310.jpg) no-repeat;"></div>        </a>
         <div class="home-block__inner">
             <div class="col-xs-6">
-                <h4 class="home-block__title">Therapist Ben Moss</h4>
+                <h4 class="home-block__title" onclick="window.location='watch-video-from-ben-moss-licensed-therapist-lcsw-los-angeles-ca/index.htm'">Therapist Ben Moss</h4>
                 <p class="home-block__info"></p>
             </div>
-            <div class="home-block__play"><i class="ion-play"></i></div>
+            <div class="home-block__play" onclick="window.location='watch-video-from-ben-moss-licensed-therapist-lcsw-los-angeles-ca/index.htm'"><i class="ion-play"></i></div>
         </div>
     </div>
         
@@ -316,10 +341,10 @@ var fvpdata = {"ajaxurl":"https:\/\/myjuggler.com\/wp-admin\/admin-ajax.php","no
             <div class="bg-block cover" style="background:url(../wp-content/uploads/2020/11/20201129152755_thumb2-550x310.jpg) no-repeat;"></div>        </a>
         <div class="home-block__inner">
             <div class="col-xs-6">
-                <h4 class="home-block__title">MyJuggler.com Founder Marc Firestone</h4>
+                <h4 class="home-block__title" onclick="window.location='watch-myjuggler-com-founder-marc-moshe-firestone-welcome-to-the-myjuggler-life-plan/index.htm'">MyJuggler.com Founder Marc Firestone</h4>
                 <p class="home-block__info"></p>
             </div>
-            <div class="home-block__play"><i class="ion-play"></i></div>
+            <div class="home-block__play" onclick="window.location='watch-myjuggler-com-founder-marc-moshe-firestone-welcome-to-the-myjuggler-life-plan/index.htm'"><i class="ion-play"></i></div>
         </div>
     </div>
         
@@ -332,10 +357,10 @@ var fvpdata = {"ajaxurl":"https:\/\/myjuggler.com\/wp-admin\/admin-ajax.php","no
             <div class="bg-block cover" style="background:url(../wp-content/uploads/2019/02/video-2-550x368.jpg) no-repeat;"></div>        </a>
         <div class="home-block__inner">
             <div class="col-xs-6">
-                <h4 class="home-block__title">10 Ways to Love</h4>
+                <h4 class="home-block__title" onclick="window.location='10-ways-to-love/index.htm'">10 Ways to Love</h4>
                 <p class="home-block__info">&nbsp; &nbsp;</p>
             </div>
-            <div class="home-block__play"><i class="ion-play"></i></div>
+            <div class="home-block__play" onclick="window.location='10-ways-to-love/index.htm'"><i class="ion-play"></i></div>
         </div>
     </div>
         
@@ -348,10 +373,10 @@ var fvpdata = {"ajaxurl":"https:\/\/myjuggler.com\/wp-admin\/admin-ajax.php","no
             <div class="bg-block cover" style="background:url(../wp-content/uploads/2019/02/video-1-550x309.jpg) no-repeat;"></div>        </a>
         <div class="home-block__inner">
             <div class="col-xs-6">
-                <h4 class="home-block__title">How Do You Determine the Health of Your Marriage?</h4>
+                <h4 class="home-block__title" onclick="window.location='how-do-you-determine-the-health-of-your-marriage/index.htm'">How Do You Determine the Health of Your Marriage?</h4>
                 <p class="home-block__info"></p>
             </div>
-            <div class="home-block__play"><i class="ion-play"></i></div>
+            <div class="home-block__play" onclick="window.location='how-do-you-determine-the-health-of-your-marriage/index.htm'"><i class="ion-play"></i></div>
         </div>
     </div>
         
